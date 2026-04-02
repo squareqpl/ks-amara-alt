@@ -1,0 +1,1 @@
+This repository is only for us to upload our subtitles and use them on our site.
