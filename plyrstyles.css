@@ -1,0 +1,40 @@
+.video-container {
+    position: relative;
+    max-width: 800px;
+}
+
+.subtitle-overlay {
+    position: absolute;
+    bottom: 8%;
+    width: 100%;
+    text-align: center;
+    pointer-events: none;
+}
+
+.subtitle-text {
+    font-size: 20px;
+    font-family: Tahoma, sans-serif;
+    display: inline-block;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 4px;
+    text-shadow: 0 0 4px black;
+}
+
+.subtitle-toggle {
+    position: absolute;
+    bottom: 15%;
+    right: 10px;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.plyr__control.cc-active {
+    color: #00b3ff;
+}
