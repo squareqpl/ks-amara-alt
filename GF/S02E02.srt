@@ -181,7 +181,7 @@ Koleś, leżysz na moim staniku.
 
 41
 00:01:36,350 --> 00:01:42,220
-"<font color=#efcb00>Golfowa wojna</font>"
+"<font color=#efcb00>W bunkrze</font>"
 <i><font color=#FF3538>~</font> Na język polski przetłumaczył: <font color=#AB895C>Piciambeer</font>
 Poprawki nanieśli: <font color=#C4AF8E>Budyń</font>, <font color=#C9AB88>ciasteczkoludek</font> i <font color=#000aff>SquareQ </font><font color=#FF3538>~</font></i>
 Strona: <font color=#00ff00>kreskowkasubs.blogspot.com</font>

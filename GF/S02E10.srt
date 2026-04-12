@@ -104,7 +104,7 @@ idealnego to tej roboty.
 
 23
 00:01:03,000 --> 00:01:07,700
-"<font color=#efcb00>Nie taki, jak się wydaje</font>"
+"<font color=#efcb00>Tajemnica Posiadłości Northwestów</font>"
 <i><font color=#FF3538>~</font> Na język polski przetłumaczył: <font color=#AB895C>Piciambeer</font>
 Poprawki nanieśli: <font color=#766358>Mona</font>, <font color=#6B6B6C>Pauli</font>, <font color=#C4AF8E>Budyń</font> i <font color=#C9AB88>ciasteczkoludek</font> <font color=#FF3538>~</font></i>
 Strona: <font color=#00ff00>kreskowkasubs.blogspot.com</font>

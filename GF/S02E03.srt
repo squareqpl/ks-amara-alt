@@ -220,7 +220,7 @@ i pilnować domu.
 
 50
 00:01:45,100 --> 00:01:50,570
-"<font color=#efcb00>Stracha-oke</font>"
+"<font color=#efcb00>Golfowa wojna</font>"
 <i><font color=#FF3538>~</font> Na język polski przetłumaczył: <font color=#C4AF8E>Budyń</font>
 Poprawki nanieśli: <font color=#AB895C>Piciambeer</font>, <font color=#C9AB88>ciasteczkoludek</font> i <font color=#000aff>SquareQ </font><font color=#FF3538>~</font></i>
 Strona: <font color=#00ff00>kreskowkasubs.blogspot.com</font>

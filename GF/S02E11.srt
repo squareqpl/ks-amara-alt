@@ -55,7 +55,7 @@ Już dziś.
 
 13
 00:01:19,210 --> 00:01:24,610
-"<font color=#efcb00>Tajemnica Posiadłości Northwestów</font>"
+"<font color=#efcb00>Nie taki, jak się wydaje</font>"
 <i><font color=#FF3538>~</font> Na język polski przetłumaczył: <font color=#C4AF8E>Budyń</font>
 Poprawki nanieśli: <font color=#AB895C>Piciambeer</font>, <font color=#C9AB88>ciasteczkoludek</font> i <font color=#000aff>SquareQ </font><font color=#FF3538>~</font></i>
 Strona: <font color=#00ff00>kreskowkasubs.blogspot.com</font>
