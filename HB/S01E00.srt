@@ -4,7 +4,7 @@
 oglądającego zalecana!!" "Mówię brzydkie wyrazy"
 
 2
-00:00:02,511 --> 00:00:04,526
+00:00:02,517 --> 00:00:04,157
 "Witajcie w Imp City"
 
 3
@@ -1039,95 +1039,101 @@ małego Eddiego, prosimy o kontakt i-
 Nie ma za co!
 
 231
-00:10:14,344 --> 00:10:17,990
+00:10:12,351 --> 00:10:14,418
+<i><font color=#FF3538>~</font> Na język polski przetłumaczyli: <font color=#113916>Kitty</font> i <font color=#e80c0c>Dżuls</font>
+Poprawki naniósł: <font color=#000aff>SquareQ</font><font color=#FF3538> ~</font></i>
+Strona: <font color=#00ff00>kreskowkasubs.blogspot.com</font>
+
+232
+00:10:14,436 --> 00:10:18,082
 ♪ Och, co za dreszcz, gdy
 szkarłatny pada deszcz ♪
 
-232
+233
 00:10:18,344 --> 00:10:21,537
 ♪ A ma Millie
 kładzie życiu kres ♪
 
-233
+234
 00:10:21,562 --> 00:10:25,435
 ♪ Zapiera w piersiach
 dech, śmierci aniołem jest ♪
 
-234
+235
 00:10:25,554 --> 00:10:26,844
 ♪ Miła mi ♪
 
-235
+236
 00:10:26,869 --> 00:10:28,602
 ♪ Och, Millie ♪
 
-236
+237
 00:10:28,875 --> 00:10:31,971
 ♪ To jak pieśń
 jest na jej cześć ♪
 
-237
+238
 00:10:32,514 --> 00:10:35,397
 ♪ Kiedy słyszę jej ofiary jęk ♪
 
-238
+239
 00:10:36,041 --> 00:10:39,451
 ♪ Zawsze niedosyt ma,
 wciąż w amoku trwa ♪
 
-239
+240
 00:10:39,723 --> 00:10:40,933
 ♪ Miła mi ♪
 
-240
+241
 00:10:41,118 --> 00:10:42,798
 ♪ Och, Millie ♪
 
-241
+242
 00:10:43,268 --> 00:10:46,014
 ♪ Gdy posoka płynie w ulic wszerz ♪
 
-242
+243
 00:10:46,015 --> 00:10:49,403
 - ♪ Kap! Kap! Kap! ♪
 - ♪ A wokoło jest ciał strzęp ♪
 
-243
+244
 00:10:49,404 --> 00:10:53,188
 - ♪ Krew! ♪
 - ♪ Bije serce me ♪
 
-244
+245
 00:10:53,734 --> 00:10:56,657
 ♪ Kiedy Millie ♪
 ♪ Rewolwery żarzą się ♪
 
-245
+246
 00:10:56,682 --> 00:10:58,933
 - ♪ Pif-paf-pif! ♪
 - ♪ Ta zgubna miłość ♪
 
-246
+247
 00:10:58,934 --> 00:11:00,873
 ♪ Morderstwa nigdy nie dość ♪
 
-247
+248
 00:11:00,874 --> 00:11:02,134
 ♪ Miła mi ♪
 
-248
+249
 00:11:02,790 --> 00:11:04,329
 ♪ Och, La da dee ♪
 
-249
+250
 00:11:04,330 --> 00:11:06,066
 ♪ Inne impy mam gdzieś ♪
 
-250
+251
 00:11:06,326 --> 00:11:08,016
 ♪ Zawsze wybiorę cię ♪
 
-251
+252
 00:11:08,017 --> 00:11:09,792
 ♪ Och, Millie ♪
 
