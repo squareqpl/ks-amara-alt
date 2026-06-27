@@ -1,0 +1,1366 @@
+﻿1
+00:00:17,267 --> 00:00:19,727
+<i>Gdzie na progu wielkości</i>
+
+2
+00:00:20,687 --> 00:00:22,897
+<i>Ciemność zmienia się w blask</i>
+
+3
+00:00:24,065 --> 00:00:27,065
+<i>My tuż przy tobie będziemy stać</i>
+
+4
+00:00:28,611 --> 00:00:31,031
+<i>Wygrać musimy ten bój</i>
+
+5
+00:00:31,114 --> 00:00:32,494
+<i>Silni jak nikt</i>
+
+6
+00:00:32,574 --> 00:00:34,204
+<i>I dzielni jak nikt</i>
+
+7
+00:00:34,409 --> 00:00:36,039
+<i>Dzielni jak nikt</i>
+
+8
+00:00:36,119 --> 00:00:41,709
+<i>Znajdziemy tam wielką moc, bo już czas
+Użyć wszystkich sił, by zrobić to</i>
+
+9
+00:00:42,709 --> 00:00:44,419
+<i>Zrobimy to</i>
+
+10
+00:00:56,598 --> 00:00:57,598
+Catra!
+
+11
+00:00:59,726 --> 00:01:03,096
+Wyjdź. Wiem, że nie chciałaś
+uderzyć Lonnie.
+
+12
+00:01:03,354 --> 00:01:06,274
+Porozmawiam z nimi. Nie będą źli.
+
+13
+00:01:06,775 --> 00:01:09,525
+Ale najpierw wyjdź i przeproś.
+
+14
+00:01:13,990 --> 00:01:15,660
+Tylko się bawiłyśmy.
+
+15
+00:01:15,825 --> 00:01:16,985
+Nie musiałaś.
+
+16
+00:01:18,328 --> 00:01:19,408
+Czemu to zrobiłaś?
+
+17
+00:02:00,120 --> 00:02:01,660
+Śledzicie mnie?
+
+18
+00:02:01,996 --> 00:02:04,826
+Jestem tu do pomocy, siostro.
+
+19
+00:02:04,916 --> 00:02:06,246
+Rozkaz Prime'a.
+
+20
+00:02:06,334 --> 00:02:09,094
+Nie mogę odejść na krok bez was.
+
+21
+00:02:09,254 --> 00:02:11,674
+Niech przyzna, że to więzienie.
+
+22
+00:02:11,756 --> 00:02:13,836
+Jesteś gościem honorowym.
+
+23
+00:02:14,008 --> 00:02:16,428
+Chcemy cię dobrze przyjąć.
+
+24
+00:02:19,180 --> 00:02:20,180
+Jasne.
+
+25
+00:02:28,398 --> 00:02:31,318
+Ta część jest niedostępna, Catro.
+
+26
+00:02:33,027 --> 00:02:34,527
+Mówisz mi po imieniu.
+
+27
+00:02:34,863 --> 00:02:36,493
+Klony tak nie robią.
+
+28
+00:02:37,574 --> 00:02:39,704
+Pamiętasz mnie, prawda?
+
+29
+00:02:40,577 --> 00:02:42,747
+Podpowiedź: nie lubisz mnie.
+
+30
+00:02:44,330 --> 00:02:45,330
+Hordak.
+
+31
+00:02:46,416 --> 00:02:48,126
+Nie mogę mieć imienia.
+
+32
+00:02:48,418 --> 00:02:50,958
+Słudzy Prime'a są częścią całości.
+
+33
+00:02:51,629 --> 00:02:54,549
+Imię pozostanie tajemnicą, ale...
+
+34
+00:02:55,466 --> 00:02:57,716
+Dobrze zobaczyć znajomego.
+
+35
+00:03:00,054 --> 00:03:03,734
+Ta część statku jest niedostępna, siostro.
+
+36
+00:03:05,351 --> 00:03:06,481
+Zrozumiałam.
+
+37
+00:03:20,950 --> 00:03:23,540
+Zbliżamy się do sygnału.
+
+38
+00:03:23,620 --> 00:03:25,710
+Dotrzemy tam za... Nie!
+
+39
+00:03:28,374 --> 00:03:29,584
+Co ty robisz?
+
+40
+00:03:29,876 --> 00:03:33,246
+Nie rozbieraj statku, gdy na nim jesteśmy.
+
+41
+00:03:33,421 --> 00:03:37,131
+Zapomniałaś o miażdżącej próżni?
+
+42
+00:03:37,216 --> 00:03:40,846
+Uwielbiam o niej myśleć!
+
+43
+00:03:41,346 --> 00:03:43,846
+Ale zawsze można coś ulepszyć.
+
+44
+00:03:43,932 --> 00:03:46,272
+Mogę dodać przyspieszenie.
+
+45
+00:03:46,351 --> 00:03:50,771
+Nie! Nie tkniemy statku,
+póki nie dotrzemy do Glimmer.
+
+46
+00:03:53,942 --> 00:03:54,942
+Wybacz.
+
+47
+00:03:56,653 --> 00:03:57,703
+Ty stań tu,
+
+48
+00:03:57,946 --> 00:03:59,106
+a ty tutaj.
+
+49
+00:03:59,197 --> 00:04:03,157
+Dopóki nie dolecimy,
+nikt niczego nie dotyka.
+
+50
+00:04:04,202 --> 00:04:07,252
+<i>Wykryto prob... Problem.</i>
+
+51
+00:04:07,413 --> 00:04:10,833
+<i>Interfejs użytkownika zostanie wyłączony.</i>
+
+52
+00:04:10,959 --> 00:04:11,959
+<i>- Pa.</i>
+- Nie.
+
+53
+00:04:12,085 --> 00:04:13,665
+Nie!
+
+54
+00:04:19,300 --> 00:04:20,300
+To nie ja.
+
+55
+00:04:26,182 --> 00:04:27,392
+Cześć.
+
+56
+00:04:28,351 --> 00:04:29,811
+Jak tam ucieczka?
+
+57
+00:04:30,895 --> 00:04:33,305
+Znowu ty. Czemu ciągle wracasz?
+
+58
+00:04:33,648 --> 00:04:35,608
+To chyba z nudów.
+
+59
+00:04:36,067 --> 00:04:39,697
+Horde Prime zabronił nam rozmawiać.
+
+60
+00:04:39,946 --> 00:04:41,446
+W końcu cię złapie.
+
+61
+00:04:41,739 --> 00:04:42,739
+Nie ryzykuj.
+
+62
+00:04:44,701 --> 00:04:46,541
+Jesteś samotna, prawda?
+
+63
+00:04:46,911 --> 00:04:48,831
+To ty jesteś więźniem.
+
+64
+00:04:48,913 --> 00:04:51,793
+Ja chodzę wolno. Więc siedź tu sama.
+
+65
+00:04:51,874 --> 00:04:52,874
+Dobra.
+
+66
+00:04:53,001 --> 00:04:56,051
+Masz rację. Rozmowa pomaga.
+
+67
+00:04:56,337 --> 00:04:59,257
+Choć wolałabym utknąć z kimś innym.
+
+68
+00:04:59,924 --> 00:05:02,804
+Nawzajem, Gwiazdko.
+
+69
+00:05:12,520 --> 00:05:15,860
+Co byś robiła,
+gdybyś była teraz na Etherii,
+
+70
+00:05:15,940 --> 00:05:18,690
+a nie tkwiła na statku obcych?
+
+71
+00:05:19,736 --> 00:05:20,736
+Może...
+
+72
+00:05:22,613 --> 00:05:25,373
+Teleportowałabym się,
+
+73
+00:05:25,742 --> 00:05:27,912
+odwiedzając księżniczki.
+
+74
+00:05:28,286 --> 00:05:29,826
+Idealnie byłoby
+
+75
+00:05:30,079 --> 00:05:32,249
+nocować z Bowem i Adorą.
+
+76
+00:05:33,082 --> 00:05:35,842
+Napadlibyśmy na kuchnię Bright Moon
+
+77
+00:05:35,918 --> 00:05:37,798
+i jedli ciasto rękami.
+
+78
+00:05:38,421 --> 00:05:39,421
+Pamiętam to.
+
+79
+00:05:40,173 --> 00:05:41,633
+- Co?
+- Nocowanie.
+
+80
+00:05:41,841 --> 00:05:43,971
+Gdy byłyśmy kadetkami z Adorą.
+
+81
+00:05:45,219 --> 00:05:48,889
+Drażniłyśmy Kyle'a
+i szeptałyśmy całą noc...
+
+82
+00:05:49,682 --> 00:05:50,682
+Nieważne.
+
+83
+00:05:51,517 --> 00:05:55,347
+Czy Adora dalej rzuca się
+i walczy przez sen?
+
+84
+00:05:55,438 --> 00:05:56,688
+O co chodziło?
+
+85
+00:05:58,066 --> 00:06:01,686
+Zawsze tak robiła.
+Nie relaksuje się we śnie.
+
+86
+00:06:04,989 --> 00:06:05,989
+Tęsknię.
+
+87
+00:06:06,616 --> 00:06:09,326
+Byłam wobec nich okropna.
+
+88
+00:06:09,952 --> 00:06:13,162
+Chciałabym to cofnąć i naprawić.
+
+89
+00:06:14,791 --> 00:06:15,711
+A ty?
+
+90
+00:06:15,792 --> 00:06:18,132
+Co byś robiła na Etherii?
+
+91
+00:06:18,669 --> 00:06:19,669
+Ja...
+
+92
+00:06:21,214 --> 00:06:22,214
+Nic.
+
+93
+00:06:22,757 --> 00:06:24,757
+Nic tam na mnie nie czeka.
+
+94
+00:06:31,974 --> 00:06:32,974
+To nic!
+
+95
+00:06:33,267 --> 00:06:34,387
+Naprawię Darlę.
+
+96
+00:06:34,852 --> 00:06:37,192
+- Darlę?
+- Nazwałam tak statek.
+
+97
+00:06:37,355 --> 00:06:39,065
+Pasowało mi.
+
+98
+00:06:40,149 --> 00:06:42,149
+Dobra, napraw Darlę.
+
+99
+00:06:42,235 --> 00:06:43,775
+- Ale uważaj.
+- Tak!
+
+100
+00:06:44,487 --> 00:06:45,487
+Entrapta!
+
+101
+00:06:47,949 --> 00:06:51,039
+Obiecuję nic nie ruszać i nie psuć.
+
+102
+00:06:53,329 --> 00:06:55,119
+Zaraz wrócę.
+
+103
+00:06:59,919 --> 00:07:00,919
+Bow?
+
+104
+00:07:01,129 --> 00:07:03,209
+Coś tu jest...
+
+105
+00:07:15,393 --> 00:07:16,443
+Załatwię to.
+
+106
+00:07:23,484 --> 00:07:26,114
+Dokąd się tak śpieszycie?
+
+107
+00:07:33,453 --> 00:07:36,253
+Wzywam bazę naziemną Planety 1659.
+
+108
+00:07:36,414 --> 00:07:39,794
+Przygotujcie się
+do przyjęcia naszego brata.
+
+109
+00:07:53,181 --> 00:07:55,221
+Tu jesteś, młodsza siostro.
+
+110
+00:07:55,808 --> 00:07:57,388
+Szukałem cię.
+
+111
+00:08:13,868 --> 00:08:17,248
+Dziękujemy, że do nas dołączyłaś.
+
+112
+00:08:17,705 --> 00:08:21,245
+Szukałem She-Ry,
+
+113
+00:08:21,542 --> 00:08:24,962
+ale nie znalazłem tego, czego szukałem.
+
+114
+00:08:26,756 --> 00:08:29,626
+Drony uwieczniły odlatujący statek.
+
+115
+00:08:29,800 --> 00:08:31,590
+Starożytna konstrukcja,
+
+116
+00:08:31,677 --> 00:08:34,217
+której nie wykryją moje urządzenia.
+
+117
+00:08:34,889 --> 00:08:36,309
+Jak to możliwe?
+
+118
+00:08:37,183 --> 00:08:38,183
+Nie wiem.
+
+119
+00:08:40,102 --> 00:08:41,102
+Nie wiem.
+
+120
+00:08:41,145 --> 00:08:44,565
+Nie przyjaźnię się z Adorą.
+Nie znam jej planów.
+
+121
+00:08:46,234 --> 00:08:48,494
+A próbujesz ją chronić.
+
+122
+00:08:51,280 --> 00:08:54,450
+Rozmawiałaś z królową Glimmer
+
+123
+00:08:54,534 --> 00:08:55,664
+wbrew zakazowi.
+
+124
+00:08:56,369 --> 00:08:57,789
+Prawda, siostro?
+
+125
+00:08:58,955 --> 00:09:00,665
+Żałujesz jej.
+
+126
+00:09:01,415 --> 00:09:04,085
+Zdobędziesz od niej informacje.
+
+127
+00:09:04,168 --> 00:09:07,548
+Musi coś wiedzieć o tajemniczym statku.
+
+128
+00:09:08,256 --> 00:09:09,256
+Nie da się.
+
+129
+00:09:09,298 --> 00:09:11,758
+Nie ufa mi. Nic nie powie.
+
+130
+00:09:13,678 --> 00:09:16,888
+Wierz mi, nie wiem, gdzie jest Adora.
+
+131
+00:09:16,973 --> 00:09:17,973
+To wróg.
+
+132
+00:09:18,182 --> 00:09:19,182
+Niech zniknie.
+
+133
+00:09:20,142 --> 00:09:23,442
+Biedna siostro.
+
+134
+00:09:23,896 --> 00:09:27,146
+Adora przysparza ci tylko cierpień.
+
+135
+00:09:27,608 --> 00:09:29,778
+Nie chcesz się uwolnić?
+
+136
+00:09:32,405 --> 00:09:33,905
+Jest inny sposób.
+
+137
+00:09:34,115 --> 00:09:35,115
+Pokażę ci.
+
+138
+00:09:35,449 --> 00:09:37,289
+Podejdź.
+
+139
+00:09:40,246 --> 00:09:44,326
+Rozmawiałeś dziś rano z siostrą,
+prawda, bracie?
+
+140
+00:09:44,834 --> 00:09:46,844
+Co ci powiedziała?
+
+141
+00:09:47,587 --> 00:09:49,757
+Nadała mi imię.
+
+142
+00:09:50,298 --> 00:09:51,508
+Wybacz, bracie.
+
+143
+00:09:51,716 --> 00:09:54,756
+Zabierz ode mnie to utrapienie.
+
+144
+00:09:59,181 --> 00:10:01,771
+Pragnący wolności otrzymają ją.
+
+145
+00:10:01,892 --> 00:10:03,352
+<i>Wypędź cienie.</i>
+
+146
+00:10:03,436 --> 00:10:04,516
+<i>Wypędź cienie.</i>
+
+147
+00:10:04,854 --> 00:10:06,154
+<i>Wypędź cienie.</i>
+
+148
+00:10:06,355 --> 00:10:07,645
+<i>Wypędź cienie.</i>
+
+149
+00:10:07,982 --> 00:10:09,362
+<i>Wypędź cienie.</i>
+
+150
+00:10:09,442 --> 00:10:10,822
+<i>Wypędź cienie.</i>
+
+151
+00:10:10,985 --> 00:10:12,315
+<i>Wypędź cienie.</i>
+
+152
+00:10:12,403 --> 00:10:13,783
+<i>Wypędź cienie.</i>
+
+153
+00:10:13,988 --> 00:10:15,198
+<i>Wypędź cienie.</i>
+
+154
+00:10:15,281 --> 00:10:16,781
+<i>Wypędź cienie.</i>
+
+155
+00:10:16,949 --> 00:10:18,369
+<i>Wypędź cienie.</i>
+
+156
+00:10:23,205 --> 00:10:25,245
+Przykro mi, że cierpisz.
+
+157
+00:10:25,958 --> 00:10:28,288
+<i>Trzeba cierpieć dla czystości.</i>
+
+158
+00:10:28,461 --> 00:10:30,921
+<i>Trzeba cierpieć dla czystości.</i>
+
+159
+00:10:31,005 --> 00:10:33,375
+<i>Trzeba cierpieć dla czystości.</i>
+
+160
+00:10:33,549 --> 00:10:35,839
+<i>Trzeba cierpieć dla czystości.</i>
+
+161
+00:10:36,093 --> 00:10:38,513
+<i>Trzeba cierpieć dla czystości.</i>
+
+162
+00:10:38,638 --> 00:10:40,968
+<i>Trzeba cierpieć dla czystości.</i>
+
+163
+00:10:41,182 --> 00:10:43,522
+<i>Trzeba cierpieć dla czystości.</i>
+
+164
+00:10:43,684 --> 00:10:46,024
+<i>Trzeba cierpieć dla czystości.</i>
+
+165
+00:10:50,107 --> 00:10:52,737
+Oto najczystszy wśród was.
+
+166
+00:10:55,404 --> 00:10:57,454
+Uhonorujcie go.
+
+167
+00:10:58,032 --> 00:10:59,242
+Tak!
+
+168
+00:10:59,617 --> 00:11:00,907
+Tak!
+
+169
+00:11:01,535 --> 00:11:02,785
+Tak!
+
+170
+00:11:05,581 --> 00:11:09,041
+Zrób, o co proszę.
+
+171
+00:11:16,676 --> 00:11:17,676
+Tak.
+
+172
+00:11:21,931 --> 00:11:24,681
+- Trochę prywatności?
+- Oczywiście.
+
+173
+00:11:25,059 --> 00:11:26,479
+On widzi wszystko.
+
+174
+00:11:30,106 --> 00:11:32,106
+- Co to za niańka?
+- Masz.
+
+175
+00:11:32,817 --> 00:11:34,777
+Twoje głupie żarcie.
+
+176
+00:11:36,195 --> 00:11:38,195
+Z idealnego dnia.
+
+177
+00:11:39,698 --> 00:11:41,078
+Pamiętam.
+
+178
+00:11:42,159 --> 00:11:43,159
+Dzięki.
+
+179
+00:11:43,452 --> 00:11:45,412
+Nie myśl, że mi zależy.
+
+180
+00:11:45,496 --> 00:11:47,826
+Mam z tobą pogadać. Zjedz to,
+
+181
+00:11:47,915 --> 00:11:49,245
+a potem mów.
+
+182
+00:11:52,294 --> 00:11:55,514
+- Co się dzieje?
+- Nic nie mów, słuchaj.
+
+183
+00:11:55,756 --> 00:11:58,876
+Stary statek Pierwszych opuścił Etherię.
+
+184
+00:11:58,968 --> 00:12:01,548
+Nie mogą go namierzyć. Co wiesz?
+
+185
+00:12:03,889 --> 00:12:06,179
+Adora tam jest, prawda?
+
+186
+00:12:07,059 --> 00:12:10,099
+Nie mów mu. Wiesz, co jej zrobi.
+
+187
+00:12:10,396 --> 00:12:13,226
+Adora leci tutaj. Chce cię ratować.
+
+188
+00:12:13,607 --> 00:12:16,527
+Nie muszę nawet nic robić.
+
+189
+00:12:16,861 --> 00:12:18,531
+On cię nie nagrodzi.
+
+190
+00:12:18,821 --> 00:12:22,371
+Gdy dostanie, czego chce,
+pozbędzie się ciebie.
+
+191
+00:12:22,616 --> 00:12:24,026
+Wykaraskam się.
+
+192
+00:12:24,160 --> 00:12:25,660
+Uciekniesz?
+
+193
+00:12:25,870 --> 00:12:26,870
+Dokąd?
+
+194
+00:12:26,912 --> 00:12:28,332
+Jak złapią Adorę,
+
+195
+00:12:28,414 --> 00:12:31,674
+Prime zniszczy wszechświat Sercem Etherii.
+
+196
+00:12:31,792 --> 00:12:33,382
+Tego chcesz?
+
+197
+00:12:34,670 --> 00:12:36,050
+Catro, proszę.
+
+198
+00:12:36,797 --> 00:12:38,757
+Zrób raz coś dobrego.
+
+199
+00:12:41,802 --> 00:12:43,392
+Nie znasz mnie.
+
+200
+00:12:43,512 --> 00:12:45,972
+Nic o mnie nie wiesz!
+
+201
+00:12:46,557 --> 00:12:47,557
+Chcę wyjść!
+
+202
+00:12:54,940 --> 00:12:56,940
+Adora, widziałaś Entraptę?
+
+203
+00:12:58,152 --> 00:12:59,612
+Co ty wyprawiasz?
+
+204
+00:12:59,945 --> 00:13:01,855
+Mam to pod kontrolą.
+
+205
+00:13:02,072 --> 00:13:03,912
+Nie o to pytałem.
+
+206
+00:13:04,074 --> 00:13:06,454
+Miałaś nic nie dotykać.
+
+207
+00:13:06,785 --> 00:13:09,405
+Wystarczy, że Entrapta zniknęła.
+
+208
+00:13:09,538 --> 00:13:10,538
+Ach, tak.
+
+209
+00:13:10,664 --> 00:13:13,754
+Była tu. Mówiła, że szuka...
+
+210
+00:13:15,669 --> 00:13:18,549
+palnika i długiej liny.
+
+211
+00:13:19,173 --> 00:13:20,763
+Nie zatrzymałaś jej?
+
+212
+00:13:21,425 --> 00:13:23,835
+Byłam zajęta.
+
+213
+00:13:24,178 --> 00:13:27,678
+Jesteśmy daleko od domu.
+
+214
+00:13:28,057 --> 00:13:32,387
+Lecimy do serca wrogiego imperium obcych,
+
+215
+00:13:32,478 --> 00:13:35,148
+a od pewnej śmierci dzieli nas
+
+216
+00:13:35,231 --> 00:13:37,071
+rozpadający się statek.
+
+217
+00:13:37,358 --> 00:13:39,898
+Zepsuł się, nie ma Glimmer,
+
+218
+00:13:39,985 --> 00:13:42,525
+kto wie, gdzie jest Entrapta.
+
+219
+00:13:43,989 --> 00:13:44,989
+Cześć.
+
+220
+00:13:45,741 --> 00:13:47,081
+Co ty tam robisz?
+
+221
+00:13:47,368 --> 00:13:51,618
+Zrobiłam nam skafandry
+i naprawiłam statek z kosmosu!
+
+222
+00:13:51,997 --> 00:13:53,747
+Tu właśnie jestem!
+
+223
+00:13:54,291 --> 00:13:56,881
+Czyli dlatego szukała liny.
+
+224
+00:14:03,926 --> 00:14:06,216
+To dobry czy zły śmiech?
+
+225
+00:14:07,513 --> 00:14:10,563
+Coraz bardziej wygląda mi na złowrogi.
+
+226
+00:14:12,726 --> 00:14:15,596
+Entrapta, do środka.
+
+227
+00:14:15,729 --> 00:14:17,479
+Adora, odłóż taśmę.
+
+228
+00:14:17,815 --> 00:14:23,235
+Wracamy do misji
+i nic nas już nie odciągnie.
+
+229
+00:14:27,616 --> 00:14:28,656
+Dobra.
+
+230
+00:14:30,786 --> 00:14:32,286
+Siostra ma rację.
+
+231
+00:14:32,496 --> 00:14:34,916
+Przeszukaliśmy kwadranty
+
+232
+00:14:35,124 --> 00:14:37,134
+i zlokalizowaliśmy statek.
+
+233
+00:14:37,418 --> 00:14:38,538
+Zbliża się.
+
+234
+00:14:38,836 --> 00:14:41,416
+Dobrze się spisałaś, siostro.
+
+235
+00:14:41,839 --> 00:14:44,679
+Wkrótce She-Ra będzie moja.
+
+236
+00:14:45,092 --> 00:14:46,932
+A z nią Etheria.
+
+237
+00:14:47,386 --> 00:14:48,636
+To dzięki tobie.
+
+238
+00:14:51,265 --> 00:14:53,265
+Podjęłaś właściwą decyzję.
+
+239
+00:14:53,684 --> 00:14:56,274
+Zostaniesz wywyższona
+
+240
+00:14:56,353 --> 00:14:59,903
+ponad nędzne stworzenia z twojej krainy.
+
+241
+00:15:00,274 --> 00:15:02,074
+Nie tego chciałaś?
+
+242
+00:15:07,323 --> 00:15:08,493
+Tak, Lordzie.
+
+243
+00:15:09,742 --> 00:15:11,242
+Idź w pokoju.
+
+244
+00:15:21,003 --> 00:15:22,003
+Catra?
+
+245
+00:15:22,588 --> 00:15:25,048
+Już kolacja, ominie cię.
+
+246
+00:15:29,094 --> 00:15:30,934
+Dzisiaj szare jedzenie.
+
+247
+00:15:31,513 --> 00:15:33,063
+Twoje ulubione.
+
+248
+00:15:38,187 --> 00:15:39,307
+Co robisz?
+
+249
+00:15:40,439 --> 00:15:43,189
+Jeśli ty nie jesz, to ja też nie.
+
+250
+00:15:43,734 --> 00:15:46,654
+Zjedz z Lonnie, twoją przyjaciółką!
+
+251
+00:15:47,196 --> 00:15:48,606
+Dlatego ją zbiłaś?
+
+252
+00:15:48,781 --> 00:15:51,241
+Wiem, że wolisz ją ode mnie.
+
+253
+00:15:52,660 --> 00:15:54,580
+Masz być moją przyjaciółką.
+
+254
+00:15:55,454 --> 00:15:57,334
+Jestem.
+
+255
+00:15:57,706 --> 00:15:59,916
+Zawsze będę.
+
+256
+00:16:04,797 --> 00:16:06,627
+Przeproś Lonnie.
+
+257
+00:16:06,757 --> 00:16:08,797
+Zaprzyjaźnicie się.
+
+258
+00:16:10,469 --> 00:16:11,469
+Nie.
+
+259
+00:16:14,223 --> 00:16:16,273
+Daj spokój, Catra.
+
+260
+00:16:16,600 --> 00:16:19,400
+Nikogo nigdy nie przeproszę.
+
+261
+00:16:40,040 --> 00:16:42,210
+Zawsze będę twoją przyjaciółką.
+
+262
+00:16:59,810 --> 00:17:01,940
+To nic osobistego, Hordak.
+
+263
+00:17:06,316 --> 00:17:07,316
+Wchodzę.
+
+264
+00:17:15,492 --> 00:17:16,492
+Co robisz?
+
+265
+00:17:17,036 --> 00:17:20,366
+Chciałam choć raz postąpić dobrze.
+
+266
+00:17:21,040 --> 00:17:22,710
+Chodź ze mną.
+
+267
+00:17:32,468 --> 00:17:33,468
+Dokąd idziemy?
+
+268
+00:17:33,719 --> 00:17:36,559
+Jaki masz plan? Jak mogę ci zaufać?
+
+269
+00:17:36,930 --> 00:17:37,930
+Nie ufaj.
+
+270
+00:17:44,229 --> 00:17:48,359
+Czemu nasz gość opuścił swoją kwaterę?
+
+271
+00:17:48,567 --> 00:17:50,527
+Chciała odetchnąć.
+
+272
+00:17:50,778 --> 00:17:52,568
+Prawda, księżniczko?
+
+273
+00:18:02,873 --> 00:18:05,463
+Uderzaj w kark. To powinno pomóc.
+
+274
+00:18:09,046 --> 00:18:10,256
+Nieźle.
+
+275
+00:18:11,423 --> 00:18:12,423
+Chodźmy.
+
+276
+00:18:19,932 --> 00:18:21,932
+- Co robisz?
+- Jak myślisz?
+
+277
+00:18:22,017 --> 00:18:23,187
+Wyciągam cię.
+
+278
+00:18:27,147 --> 00:18:28,437
+To ich zatrzyma.
+
+279
+00:18:29,024 --> 00:18:31,824
+Ratujesz mnie?
+
+280
+00:18:32,319 --> 00:18:33,779
+Nie ciebie. Adorę.
+
+281
+00:18:33,987 --> 00:18:37,027
+Nie powstrzymam jej, i tak przyleci.
+
+282
+00:18:37,116 --> 00:18:38,826
+Taka już jest.
+
+283
+00:18:43,080 --> 00:18:44,080
+A ty?
+
+284
+00:18:45,207 --> 00:18:47,497
+Ja tylko krzywdzę ludzi.
+
+285
+00:18:48,043 --> 00:18:50,843
+Nie obchodzę nikogo we wszechświecie.
+
+286
+00:18:51,964 --> 00:18:53,384
+Działa już?
+
+287
+00:18:53,715 --> 00:18:54,965
+Jesteś, Darla?
+
+288
+00:18:56,593 --> 00:18:58,553
+<i>Tak. Witaj z powrotem.</i>
+
+289
+00:18:59,513 --> 00:19:01,063
+Tęskniłam.
+
+290
+00:19:02,224 --> 00:19:04,274
+<i>Transmisja przychodząca.</i>
+
+291
+00:19:04,560 --> 00:19:08,190
+<i>- Odebrać?</i>
+- Połącz nas.
+
+292
+00:19:08,564 --> 00:19:09,694
+<i>Adora?</i>
+
+293
+00:19:09,815 --> 00:19:10,815
+Catra?
+
+294
+00:19:10,899 --> 00:19:13,689
+Nie ciesz się tak. Wysyłam Glimmer.
+
+295
+00:19:13,944 --> 00:19:16,784
+Prześlę ją do waszego kwadrantu.
+
+296
+00:19:17,197 --> 00:19:20,117
+- Musicie ją złapać.
+- Czekaj, że co?
+
+297
+00:19:20,367 --> 00:19:22,907
+Glimmer jest z tobą?
+
+298
+00:19:26,290 --> 00:19:29,080
+Nie ma czasu. Lećcie na współrzędne.
+
+299
+00:19:29,334 --> 00:19:31,344
+Nie przylatujcie tu.
+
+300
+00:19:32,254 --> 00:19:33,964
+Horde Prime wie o was.
+
+301
+00:19:34,840 --> 00:19:37,090
+Nie rozumiem, co się...
+
+302
+00:19:37,426 --> 00:19:38,426
+<i>Słuchaj!</i>
+
+303
+00:19:39,344 --> 00:19:40,344
+Adora.
+
+304
+00:19:40,470 --> 00:19:41,470
+Przepraszam.
+
+305
+00:19:43,098 --> 00:19:44,268
+Za wszystko.
+
+306
+00:19:51,190 --> 00:19:52,190
+Catra!
+
+307
+00:19:53,525 --> 00:19:55,605
+Nie!
+
+308
+00:19:55,861 --> 00:19:57,031
+Catra! Wróć!
+
+309
+00:19:57,321 --> 00:19:59,411
+<i>Kanał łączności zamknięty.</i>
+
+310
+00:19:59,698 --> 00:20:03,698
+Musimy dolecieć pod te współrzędne.
+
+311
+00:20:15,589 --> 00:20:19,129
+<i>- Zbliżamy się.</i>
+- Jesteśmy gotowi.
+
+312
+00:20:31,271 --> 00:20:32,311
+Tam!
+
+313
+00:20:36,568 --> 00:20:37,568
+Glimmer!
+
+314
+00:21:10,269 --> 00:21:11,269
+Glimmer.
+
+315
+00:21:11,979 --> 00:21:12,979
+Bow?
+
+316
+00:21:13,272 --> 00:21:14,272
+Adora?
+
+317
+00:21:16,358 --> 00:21:18,648
+- Co tam się stało?
+- Chyba...
+
+318
+00:21:19,403 --> 00:21:21,153
+Catra mnie ocaliła.
+
+319
+00:21:22,197 --> 00:21:23,737
+Ocaliła wszystkich.
+
+320
+00:21:36,753 --> 00:21:40,173
+Statek Etherii zmienił kurs,
+
+321
+00:21:41,591 --> 00:21:44,511
+ale twoja zdrada ich nie ocali.
+
+322
+00:21:45,137 --> 00:21:48,717
+Moje światło przebije się przez ciemność,
+
+323
+00:21:48,932 --> 00:21:51,812
+a moje ramię sięgnie wszędzie.
+
+324
+00:21:51,893 --> 00:21:55,653
+<i>Prime wypędzi wszystkie cienie.</i>
+
+325
+00:21:56,106 --> 00:21:59,226
+Nie będą kryć się wiecznie!
+
+326
+00:22:01,403 --> 00:22:07,583
+Umiłowałem cię, a ty tak się odpłacasz.
+
+327
+00:22:12,956 --> 00:22:14,746
+Czego się spodziewałeś?
+
+328
+00:22:15,125 --> 00:22:20,085
+Etherianie są tacy emocjonalni.
+
+329
+00:22:20,881 --> 00:22:23,011
+Nieważne, co mi zrobisz.
+
+330
+00:22:23,091 --> 00:22:24,181
+Glimmer uciekła,
+
+331
+00:22:24,259 --> 00:22:26,889
+a ty nigdy nie złapiesz Adory.
+
+332
+00:22:27,554 --> 00:22:31,734
+Mylisz się, moje dziecko.
+
+333
+00:22:32,184 --> 00:22:35,154
+W imperium jest miejsce dla każdego.
+
+334
+00:22:36,438 --> 00:22:40,398
+Jeszcze mi się przydasz.
+
+335
+00:23:10,388 --> 00:23:12,888
+Napisy: Inez Girek
+

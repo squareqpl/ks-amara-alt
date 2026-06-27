@@ -1,0 +1,911 @@
+﻿1
+00:00:23,440 --> 00:00:25,610
+Wszystko OK? Napijesz się czegoś?
+
+2
+00:00:25,692 --> 00:00:26,692
+Zimno ci?
+
+3
+00:00:58,767 --> 00:01:01,897
+Te kwiaty pięknie podkreślają
+kolor twoich oczu.
+
+4
+00:01:01,978 --> 00:01:04,308
+Możesz przestać to grać?
+
+5
+00:01:04,397 --> 00:01:05,817
+Wciąż się uczę.
+
+6
+00:01:05,899 --> 00:01:07,979
+- Mnie się podoba.
+- Hej...
+
+7
+00:01:10,945 --> 00:01:12,945
+Prime jest coraz bliżej
+
+8
+00:01:13,031 --> 00:01:15,331
+uzyskania dostępu do Serca Etherii.
+
+9
+00:01:16,034 --> 00:01:20,754
+<i>Jeśli mu się uda, będzie w stanie niszczyć
+planety, galaktyki,</i>
+
+10
+00:01:21,122 --> 00:01:23,172
+<i>a może i cały wszechświat.</i>
+
+11
+00:01:23,583 --> 00:01:26,383
+<i>Wyłącznik to nasza jedyna szansa.</i>
+
+12
+00:01:26,586 --> 00:01:28,546
+<i>Niestety Prime ma naszych ludzi.</i>
+
+13
+00:01:28,630 --> 00:01:31,590
+<i>Jego władza nad nimi ciągle się umacnia.</i>
+
+14
+00:01:31,674 --> 00:01:34,804
+<i>Jeśli ich nie uwolnimy,
+może nam się nigdy nie udać.</i>
+
+15
+00:01:35,345 --> 00:01:37,845
+Prime ma nad nami przewagę.
+
+16
+00:01:38,389 --> 00:01:42,099
+Będzie gotowy do obrony.
+Ale jest plan. Entrapto?
+
+17
+00:01:42,352 --> 00:01:45,562
+Rozgryzłam wzór sygnału Prime'a.
+
+18
+00:01:45,647 --> 00:01:49,977
+Jeśli dostanę się do Iglicy,
+będę mogła go zakłócić,
+
+19
+00:01:50,068 --> 00:01:53,818
+a to wyłączy chipy na Etherii
+i wszystkich uwolnimy!
+
+20
+00:01:53,905 --> 00:01:55,905
+Musicie zabrać Entraptę do Iglicy
+
+21
+00:01:55,990 --> 00:01:59,290
+i zająć siły Prime'a, by mogła działać.
+
+22
+00:01:59,369 --> 00:02:04,539
+Ja pójdę do Serca i je zniszczę.
+
+23
+00:02:04,624 --> 00:02:08,384
+Prime nie skrzywdzi już nikogo więcej.
+
+24
+00:02:08,711 --> 00:02:11,211
+Dzisiaj to kończymy. Na dobre.
+
+25
+00:02:13,466 --> 00:02:14,546
+Tak jest!
+
+26
+00:02:15,844 --> 00:02:16,934
+O rany.
+
+27
+00:02:17,679 --> 00:02:18,679
+Przyjaźń!
+
+28
+00:02:36,072 --> 00:02:39,162
+Chyba nie chciałaś się wymknąć bez nas?
+
+29
+00:02:39,242 --> 00:02:41,952
+- Widziałaś Catrę?
+- Ona nie wróci.
+
+30
+00:02:42,412 --> 00:02:44,212
+Na pewno chcecie iść?
+
+31
+00:02:44,289 --> 00:02:48,209
+Nie wiemy, czego się spodziewać.
+To może być niebezpieczne.
+
+32
+00:02:48,293 --> 00:02:50,713
+Nie damy ci iść samej.
+
+33
+00:02:50,795 --> 00:02:52,955
+Musimy być razem.
+
+34
+00:02:57,677 --> 00:02:59,887
+Na honor posępnego czerepu!
+
+35
+00:03:02,307 --> 00:03:04,927
+<i>Gdzie na progu wielkości</i>
+
+36
+00:03:05,977 --> 00:03:08,147
+<i>Ciemność zmienia się w blask</i>
+
+37
+00:03:09,397 --> 00:03:12,357
+<i>My tuż przy tobie Będziemy stać</i>
+
+38
+00:03:13,776 --> 00:03:16,316
+<i>Wygrać musimy ten bój</i>
+
+39
+00:03:16,404 --> 00:03:19,494
+<i>Silni jak nikt
+I dzielni jak nikt</i>
+
+40
+00:03:19,741 --> 00:03:21,281
+<i>Dzielni jak nikt</i>
+
+41
+00:03:21,367 --> 00:03:24,747
+<i>Znajdziemy tam wielką moc, bo już czas
+Użyć wszystkich sił</i>
+
+42
+00:03:24,829 --> 00:03:26,409
+<i>By zrobić to</i>
+
+43
+00:03:27,832 --> 00:03:29,712
+<i>Zrobimy to</i>
+
+44
+00:03:53,066 --> 00:03:56,736
+<i>Uwaga. Procedury Light Hope
+w trybie offline.</i>
+
+45
+00:03:56,819 --> 00:04:00,159
+<i>Manualny dostęp administratora
+niezalecany.</i>
+
+46
+00:04:01,407 --> 00:04:05,407
+Jesteśmy przyjaciółmi Mary.
+Pokaż lokalizację Serca Etherii.
+
+47
+00:04:12,794 --> 00:04:15,264
+<i>Witajcie, przyjaciele Mary.</i>
+
+48
+00:04:41,614 --> 00:04:43,034
+Co z tobą?!
+
+49
+00:04:44,284 --> 00:04:45,914
+Przestań!
+
+50
+00:04:46,327 --> 00:04:49,077
+Mówiłam ci, że nie wracam.
+
+51
+00:04:53,876 --> 00:04:55,746
+Widziałeś, co się stało!
+
+52
+00:04:55,837 --> 00:04:58,967
+Adora wybrała Shadow Weaver, nie mnie.
+
+53
+00:04:59,048 --> 00:05:00,758
+Adora mnie nie chce!
+
+54
+00:05:03,303 --> 00:05:04,513
+Nie tak, jak ja jej.
+
+55
+00:05:47,055 --> 00:05:50,425
+Hej, blaszaki! Tu jesteśmy!
+
+56
+00:05:54,062 --> 00:05:55,402
+Wystarczy dla nas obu.
+
+57
+00:05:59,025 --> 00:06:00,025
+Bracia.
+
+58
+00:06:00,693 --> 00:06:05,033
+To ja, wierny akolita Horde Prime'a.
+Jak wy.
+
+59
+00:06:09,952 --> 00:06:11,542
+Dobra robota.
+
+60
+00:06:27,845 --> 00:06:29,505
+To takie ekscytujące!
+
+61
+00:06:29,597 --> 00:06:30,677
+Pchnięcie!
+
+62
+00:06:32,183 --> 00:06:35,853
+Musimy odwracać ich uwagę,
+aż Entrapta skończy.
+
+63
+00:06:56,624 --> 00:06:59,004
+Dasz sobie radę.
+
+64
+00:06:59,794 --> 00:07:02,554
+Poradzisz sobie.
+
+65
+00:07:11,180 --> 00:07:12,180
+Boisz się?
+
+66
+00:07:14,433 --> 00:07:16,443
+Nie. Ale oby się udało.
+
+67
+00:07:16,519 --> 00:07:17,599
+Nie martw się.
+
+68
+00:07:17,687 --> 00:07:22,017
+Będziemy z tobą.
+A po wszystkim nastanie nowy świat.
+
+69
+00:07:24,861 --> 00:07:26,401
+- Słyszeliście?
+- Co?
+
+70
+00:07:27,947 --> 00:07:29,197
+Catra?
+
+71
+00:07:33,202 --> 00:07:34,502
+Hej, Adoro.
+
+72
+00:07:34,871 --> 00:07:36,581
+- Przyszłaś...
+- Adoro!
+
+73
+00:07:54,307 --> 00:07:58,097
+To nie w tę stronę. Tędy. Wszystko OK?
+
+74
+00:07:58,978 --> 00:08:02,518
+Musimy uważać.
+To miejsce tworzy projekcje wspomnień.
+
+75
+00:08:02,899 --> 00:08:04,569
+Nie dajmy się omamić.
+
+76
+00:08:50,863 --> 00:08:52,743
+Bracia.
+
+77
+00:08:52,823 --> 00:08:56,413
+Wreszcie nadeszła ta chwila.
+
+78
+00:08:56,494 --> 00:09:00,164
+She-Ra nie stanie mi już na drodze.
+
+79
+00:09:00,248 --> 00:09:05,338
+Serce zostanie obnażone,
+a jego moc będzie gotowa do zagarnięcia.
+
+80
+00:09:05,419 --> 00:09:09,259
+Przepędź cienie.
+Sprowadź światłość Prime'a.
+
+81
+00:09:09,423 --> 00:09:13,183
+Przepędź cienie.
+Sprowadź światłość Prime'a.
+
+82
+00:09:13,261 --> 00:09:16,601
+Przepędź cienie.
+Sprowadź światłość Prime'a.
+
+83
+00:09:16,847 --> 00:09:20,477
+Rozpocząć proces przejęcia.
+
+84
+00:10:14,322 --> 00:10:15,322
+Adora.
+
+85
+00:10:15,656 --> 00:10:17,276
+Musimy ostrzec Adorę!
+
+86
+00:10:21,412 --> 00:10:23,662
+- Adoro?
+- Adoro!
+
+87
+00:10:39,096 --> 00:10:40,096
+Adoro!
+
+88
+00:10:42,433 --> 00:10:44,853
+- Nic ci nie jest?
+- Co się dzieje?
+
+89
+00:10:45,895 --> 00:10:49,765
+Chyba wiem.
+To miejsce reaguje na moje wspomnienia.
+
+90
+00:10:50,399 --> 00:10:51,899
+Za moją przyczyną.
+
+91
+00:10:52,610 --> 00:10:54,950
+Czemu tutaj? Jak się stąd wydostać?
+
+92
+00:10:56,364 --> 00:11:00,534
+Kiedy złamałam miecz, myślałam,
+że mogę tworzyć własne przeznaczenie.
+
+93
+00:11:01,327 --> 00:11:04,957
+Ale to nieprawda.
+Zawsze miało się tak skończyć.
+
+94
+00:11:05,748 --> 00:11:07,458
+Jak to „skończyć”?
+
+95
+00:11:07,708 --> 00:11:08,708
+Adoro!
+
+96
+00:11:10,211 --> 00:11:11,211
+Tracę ją.
+
+97
+00:11:11,712 --> 00:11:15,552
+Mam taki mętlik w głowie. Boję się.
+
+98
+00:11:15,633 --> 00:11:18,433
+Tak nie może być, jeśli ma się udać.
+
+99
+00:11:20,054 --> 00:11:22,224
+Resztę drogi muszę przejść sama.
+
+100
+00:11:22,306 --> 00:11:24,726
+Nie! Nie musisz tego robić!
+
+101
+00:11:25,226 --> 00:11:26,936
+Tak bardzo was kocham.
+
+102
+00:11:27,269 --> 00:11:30,059
+Bez was nigdy nie dałabym rady.
+
+103
+00:11:30,439 --> 00:11:33,229
+Najlepsi przyjaciele pod słońcem.
+Dziękuję.
+
+104
+00:11:33,317 --> 00:11:34,317
+Adoro!
+
+105
+00:11:55,673 --> 00:11:57,263
+Adoro!
+
+106
+00:11:57,591 --> 00:11:59,091
+Tu jej nie ma.
+
+107
+00:12:00,928 --> 00:12:03,348
+Jak to nie ma? A gdzie jest?
+
+108
+00:12:03,431 --> 00:12:06,271
+Udała się do Serca Etherii,
+by uwolnić magię
+
+109
+00:12:06,350 --> 00:12:08,810
+i zostać bohaterką. Jak było jej pisane.
+
+110
+00:12:09,186 --> 00:12:11,976
+Jeśli wciąż myślisz tylko o sobie...
+
+111
+00:12:12,064 --> 00:12:16,034
+Nie wszystko kręci się wokół ciebie
+i twoich gierek.
+
+112
+00:12:16,110 --> 00:12:19,450
+Prime robi coś z planetą. Infekuje ją.
+
+113
+00:12:19,530 --> 00:12:21,030
+Serce jest jego celem.
+
+114
+00:12:24,827 --> 00:12:28,577
+Złamaliśmy ostatnie
+procedury bezpieczeństwa Etherii.
+
+115
+00:12:28,664 --> 00:12:31,544
+Przejęcie planety
+ukończone w 20 procentach.
+
+116
+00:12:40,801 --> 00:12:41,841
+Już prawie.
+
+117
+00:12:51,187 --> 00:12:53,147
+Witaj, mała rebeliantko.
+
+118
+00:12:53,898 --> 00:12:58,438
+Jesteś w samą porę,
+by obejrzeć koniec swojego świata.
+
+119
+00:13:14,710 --> 00:13:16,250
+Czemu nie strzelają?
+
+120
+00:13:19,381 --> 00:13:20,511
+O nie.
+
+121
+00:13:39,485 --> 00:13:44,985
+<i>Raduj się, Etherio. Nadszedł dzień sądu.</i>
+
+122
+00:13:45,533 --> 00:13:47,703
+<i>Oferowałem wam miłosierdzie.</i>
+
+123
+00:13:48,160 --> 00:13:50,790
+<i>Ale odrzuciliście moją łaskę.</i>
+
+124
+00:13:51,288 --> 00:13:52,748
+<i>Jak sobie chcecie.</i>
+
+125
+00:13:53,874 --> 00:13:55,294
+Entrapta!
+
+126
+00:13:56,043 --> 00:13:57,673
+<i>Przepraszam.</i>
+
+127
+00:13:57,753 --> 00:14:01,723
+<i>Wasz opór na nic się nie zdał.</i>
+
+128
+00:14:01,840 --> 00:14:04,550
+<i>Wasza She-Ra was opuściła.</i>
+
+129
+00:14:04,927 --> 00:14:11,017
+<i>Teraz czeka was jedynie wieczna ciemność.</i>
+
+130
+00:14:13,477 --> 00:14:15,227
+Zabierz nas do Adory. Już!
+
+131
+00:14:15,312 --> 00:14:18,322
+Jest za daleko. Nie zdążymy.
+
+132
+00:14:18,399 --> 00:14:22,069
+Użyj magii. Masz więcej mocy,
+niż wszyscy sądzą.
+
+133
+00:14:22,152 --> 00:14:23,992
+To nie tak.
+
+134
+00:14:24,071 --> 00:14:26,991
+Jak wtedy, gdy porzuciłaś mnie
+w Strefie Trwogi.
+
+135
+00:14:27,074 --> 00:14:29,414
+Zawsze umiałaś nas znaleźć.
+
+136
+00:14:29,702 --> 00:14:33,872
+Zrób z tej mocy dobry użytek!
+Pomóż mi ją ocalić!
+
+137
+00:14:39,920 --> 00:14:40,920
+Chodź.
+
+138
+00:14:47,803 --> 00:14:48,893
+Adoro!
+
+139
+00:14:48,971 --> 00:14:49,971
+Adoro!
+
+140
+00:14:58,022 --> 00:14:59,112
+Catra?
+
+141
+00:14:59,189 --> 00:15:02,109
+- Gdzie Adora?
+- Zostawiła nas.
+
+142
+00:15:02,192 --> 00:15:04,402
+Poszła do Serca sama.
+
+143
+00:15:04,904 --> 00:15:08,204
+Pewnie, że tak! To cała ona.
+
+144
+00:15:09,825 --> 00:15:11,535
+Co się dzieje?
+
+145
+00:15:11,869 --> 00:15:15,209
+Horde Prime was przejrzał.
+Zhakował planetę.
+
+146
+00:15:15,289 --> 00:15:17,789
+To wszystko jego dzieło.
+
+147
+00:15:18,208 --> 00:15:21,708
+- Weźmie Serce.
+- W dodatku ma Entraptę.
+
+148
+00:15:21,962 --> 00:15:26,302
+Jeśli tak, to pozostałe księżniczki
+są wciąż zachipowane.
+
+149
+00:15:26,383 --> 00:15:29,473
+- Musimy tam wracać.
+- Nie możemy zostawić Adory!
+
+150
+00:15:29,553 --> 00:15:31,313
+Ja zostanę. Znajdę ją.
+
+151
+00:15:31,597 --> 00:15:34,137
+- Catro...
+- Nie mogę jej znowu stracić.
+
+152
+00:15:35,684 --> 00:15:39,274
+Kiedyś obiecałam jej, że będę ją chronić.
+
+153
+00:15:39,688 --> 00:15:41,478
+Pora dotrzymać słowa.
+
+154
+00:15:45,611 --> 00:15:48,161
+Zaopiekuj się nią, hordowski łotrze.
+
+155
+00:15:49,323 --> 00:15:50,953
+Tak zamierzam, Gwiazdko.
+
+156
+00:15:51,033 --> 00:15:52,663
+Powodzenia.
+
+157
+00:15:52,952 --> 00:15:56,462
+To zbędne życzenie.
+Jesteśmy kumpel-ferajną.
+
+158
+00:16:00,960 --> 00:16:02,750
+Pilnuj ich.
+
+159
+00:16:13,180 --> 00:16:15,850
+Pomóż księżniczkom. Ja zajmę się sygnałem.
+
+160
+00:16:19,395 --> 00:16:20,395
+Bow...
+
+161
+00:16:21,188 --> 00:16:22,188
+Kocham cię.
+
+162
+00:16:22,856 --> 00:16:23,856
+Kocham cię.
+
+163
+00:16:25,526 --> 00:16:26,606
+Ja ciebie też.
+
+164
+00:16:29,697 --> 00:16:31,027
+Uważaj na siebie.
+
+165
+00:16:32,157 --> 00:16:33,157
+Ja?
+
+166
+00:16:34,159 --> 00:16:35,699
+Zawsze uważam.
+
+167
+00:17:02,730 --> 00:17:06,110
+Ocalę Etherię, bez względu na wszystko.
+
+168
+00:17:06,358 --> 00:17:09,698
+Twoja ofiara nie pójdzie na marne.
+Obiecuję.
+
+169
+00:17:10,279 --> 00:17:11,359
+Ale za jaką cenę?
+
+170
+00:17:13,073 --> 00:17:14,453
+Nie chciałam umierać.
+
+171
+00:17:15,117 --> 00:17:18,077
+Poświęciłam się, żebyś ty nie musiała.
+
+172
+00:17:18,620 --> 00:17:20,410
+Czemu to robisz?
+
+173
+00:17:21,373 --> 00:17:24,043
+Tak należy.
+Moi przyjaciele będą bezpieczni.
+
+174
+00:17:24,126 --> 00:17:25,916
+- Szczęśliwi.
+- A ty?
+
+175
+00:17:26,628 --> 00:17:29,298
+- Czego chcesz po tym wszystkim?
+- Ja...
+
+176
+00:17:30,716 --> 00:17:34,966
+To nieważne. Jestem She-Rą.
+Taki los mi pisany.
+
+177
+00:17:38,974 --> 00:17:43,694
+Jesteś warta więcej niż to, co możesz dać
+innym. Też zasługujesz na miłość.
+
+178
+00:17:44,563 --> 00:17:47,483
+Jesteś tak blisko. Nie poddawaj się.
+
+179
+00:17:50,569 --> 00:17:52,029
+Maro? Co...?
+
+180
+00:17:53,572 --> 00:17:54,622
+Adora.
+
+181
+00:17:55,199 --> 00:17:58,289
+To tu się schowałaś.
+
+182
+00:18:20,516 --> 00:18:25,476
+- Jest ich zbyt wielu. Wycofajmy się!
+- Dokąd? Otoczyli nas.
+
+183
+00:18:38,450 --> 00:18:40,370
+- Hurra!
+- Tęskniłaś?
+
+184
+00:18:40,452 --> 00:18:42,452
+Tak, ale... Za tobą!
+
+185
+00:19:16,822 --> 00:19:17,872
+Mermista.
+
+186
+00:19:19,449 --> 00:19:21,869
+Prime myśli, że cię kontroluje.
+
+187
+00:19:22,286 --> 00:19:23,996
+Ale ja cię znam.
+
+188
+00:19:24,454 --> 00:19:28,834
+Dowiodę tego mocą pieśni!
+
+189
+00:19:32,045 --> 00:19:33,045
+Na ziemię!
+
+190
+00:19:42,931 --> 00:19:45,351
+Jest całkiem miło.
+
+191
+00:19:45,642 --> 00:19:50,062
+Nie przypomina ci to naszego pierwszego
+spotkania? Też chciałaś mnie zabić.
+
+192
+00:20:00,449 --> 00:20:02,869
+Myślałaś, jak mnie rzucić na kolana?
+
+193
+00:20:03,994 --> 00:20:06,044
+Czemu tak się zachowujesz?
+
+194
+00:20:06,121 --> 00:20:08,371
+Bo cię kocham.
+
+195
+00:20:10,209 --> 00:20:12,629
+Poza tym to skuteczna dywersja.
+
+196
+00:20:20,344 --> 00:20:22,764
+Wybacz mi, kiedy dojdziesz do siebie.
+
+197
+00:20:23,388 --> 00:20:26,428
+Ktoś widział Scorpię?
+
+198
+00:20:53,585 --> 00:20:57,045
+Pomogę Bowowi. Ciociu Casto, możesz...?
+
+199
+00:21:22,990 --> 00:21:24,910
+Witaj, mała.
+
+200
+00:21:29,121 --> 00:21:30,251
+Nie ma cię tu.
+
+201
+00:21:30,872 --> 00:21:32,372
+Nie powstrzymasz mnie.
+
+202
+00:21:35,919 --> 00:21:37,379
+Jakie to dziwne.
+
+203
+00:21:38,213 --> 00:21:42,383
+Musiałem z nią walczyć. Poznać tę twarz.
+
+204
+00:21:43,677 --> 00:21:45,637
+Ale jej nie pamiętam.
+
+205
+00:21:50,100 --> 00:21:52,730
+Przez lata widziałem tyle jej podobnych.
+
+206
+00:21:52,811 --> 00:21:57,401
+Jedna po drugiej - wszystkie strącone
+w niebyt.
+
+207
+00:21:59,693 --> 00:22:01,243
+Jak wkrótce i ty.
+
+208
+00:22:12,831 --> 00:22:15,081
+Pożegnalny dar od Pierwszych.
+
+209
+00:22:15,167 --> 00:22:17,167
+Ich stary system bezpieczeństwa.
+
+210
+00:22:17,627 --> 00:22:21,337
+Jest w stanie powstrzymać nawet She-Rę.
+
+211
+00:22:23,550 --> 00:22:26,720
+Nigdy nie dotrzesz do Serca.
+
+212
+00:22:27,846 --> 00:22:30,056
+Twoja rasa o to zadbała.
+
+213
+00:22:31,683 --> 00:22:35,353
+Żegnaj, najstarszy wrogu.
+
+214
+00:23:09,805 --> 00:23:12,305
+Napisy: Malgorzata Siemionkowska
+

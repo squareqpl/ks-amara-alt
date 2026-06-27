@@ -1,0 +1,1208 @@
+﻿1
+00:00:21,146 --> 00:00:24,650
+Wojska broniące miasta uciekły.
+Zajęliśmy Dryl.
+
+2
+00:00:24,733 --> 00:00:28,654
+Świetnie!
+Właściwie już był nasz,
+
+3
+00:00:28,737 --> 00:00:33,325
+bo księżniczka jest z nami,
+ale dzięki flagom to oficjalne.
+
+4
+00:00:33,408 --> 00:00:35,827
+- Gdzie jesteś?
+- Dobre pytanie.
+
+5
+00:00:35,911 --> 00:00:38,789
+Nie wiem.
+
+6
+00:00:38,872 --> 00:00:41,833
+To jakiś labirynt.
+
+7
+00:00:42,834 --> 00:00:47,839
+Zobacz. Tu jestem.
+Dołącz do mnie szybko, bo mamy robotę.
+
+8
+00:00:57,140 --> 00:00:59,726
+Gdzie na progu wielkości
+
+9
+00:01:00,602 --> 00:01:02,980
+Ciemność zmienia się w blask
+
+10
+00:01:04,022 --> 00:01:08,527
+My tuż przy tobie Będziemy stać
+
+11
+00:01:08,610 --> 00:01:11,113
+Wygrać musimy ten bój
+
+12
+00:01:11,196 --> 00:01:12,531
+Silni jak nikt
+
+13
+00:01:12,614 --> 00:01:14,241
+I dzielni jak nikt
+
+14
+00:01:14,324 --> 00:01:15,867
+Dzielni jak nikt
+
+15
+00:01:15,951 --> 00:01:19,580
+Znajdziemy tam wielką moc
+Bo już czas użyć wszystkich sił
+
+16
+00:01:19,663 --> 00:01:21,331
+By zrobić to
+
+17
+00:01:22,708 --> 00:01:24,251
+Zrobimy to
+
+18
+00:01:57,367 --> 00:02:00,495
+- Całkiem nieźle, co?
+- Poczyniłaś postępy.
+
+19
+00:02:00,579 --> 00:02:05,792
+Ale wsparcie rumaka podniosłoby
+twoją skuteczność o 57 procent.
+
+20
+00:02:05,876 --> 00:02:09,212
+Pora zacząć treningi ze Swift Windem.
+
+21
+00:02:09,296 --> 00:02:12,507
+Nie lepiej skupić się
+na moich zdolnościach?
+
+22
+00:02:12,591 --> 00:02:15,677
+Dla She-Ry uświęcona więź z jej rumakiem
+
+23
+00:02:15,761 --> 00:02:19,014
+jest równie ważna
+co fizyczne umiejętności.
+
+24
+00:02:19,097 --> 00:02:22,434
+On jest częścią ciebie,
+a wasze losy nierozłączne.
+
+25
+00:02:22,517 --> 00:02:25,729
+Pewnie, że tak.
+Hej! Jestem tu jakiś czas,
+
+26
+00:02:25,812 --> 00:02:30,567
+ale czekałem na odpowiedni moment,
+by zrobić wielkie wejście.
+
+27
+00:02:30,651 --> 00:02:36,615
+To ja poprosiłam go o przybycie.
+Już czas, byście nawiązali...
+
+28
+00:02:39,076 --> 00:02:41,244
+Jak to? Entrapta żyje?
+
+29
+00:02:41,328 --> 00:02:45,957
+Dziwiłem się, że Horda dysponuje
+tak rozwiniętą technologią.
+
+30
+00:02:46,041 --> 00:02:50,462
+Ale teraz to jasne. Uwięzili Entraptę.
+
+31
+00:02:50,545 --> 00:02:56,093
+Znalazłem technologię Pierwszych.
+Entrapta badała ją...
+
+32
+00:02:56,176 --> 00:02:59,346
+Zanim ją zostawiliśmy w Strefie Trwogi.
+
+33
+00:03:02,182 --> 00:03:04,142
+- Nie wiedzieliśmy.
+- Nieważne.
+
+34
+00:03:04,226 --> 00:03:10,524
+Powinniśmy byli po nią wrócić.
+Pojmali ją, kiedy próbowała nas ratować.
+
+35
+00:03:10,607 --> 00:03:14,236
+Nie można jej tam zostawić.
+Musimy ją uwolnić.
+
+36
+00:03:14,319 --> 00:03:16,988
+Jak?
+Nie możemy tam po prostu wejść.
+
+37
+00:03:17,072 --> 00:03:22,411
+- Przez to mamy teraz kłopot.
+- Może to nie będzie konieczne. Spójrz.
+
+38
+00:03:22,494 --> 00:03:26,373
+- Horda zajęła Dryl!
+- Właśnie przyszła wiadomość.
+
+39
+00:03:26,456 --> 00:03:29,334
+Horda ma Entraptę, a teraz zajęła Dryl.
+
+40
+00:03:29,418 --> 00:03:34,923
+- To nie może być przypadek.
+- Zmusili ją, by użyła swego laboratorium.
+
+41
+00:03:35,006 --> 00:03:38,844
+Udamy się do Krypto Zamku
+i odbijemy Entraptę.
+
+42
+00:03:38,927 --> 00:03:43,932
+- Nie zostawimy żadnej księżniczki.
+- Jestem za. Chodźmy po Adorę.
+
+43
+00:03:44,015 --> 00:03:48,395
+- Szkoli się z Light Hope.
+- A inne księżniczki?
+
+44
+00:03:49,062 --> 00:03:51,940
+Entraptę pojmano, bo nas ratowała.
+
+45
+00:03:52,023 --> 00:03:56,236
+Nie będę narażać nikogo więcej.
+
+46
+00:03:58,196 --> 00:03:59,072
+Light Hope?
+
+47
+00:03:59,156 --> 00:04:02,242
+Zepsułem ją?
+Przechodząc przez jej głowę?
+
+48
+00:04:03,201 --> 00:04:06,997
+Czas, byście nawiązali uświęconą więź.
+
+49
+00:04:07,080 --> 00:04:11,585
+- Coś się stało?
+- Na chwilę jakbyś się zawiesiła.
+
+50
+00:04:11,668 --> 00:04:12,711
+Wszystko OK?
+
+51
+00:04:12,794 --> 00:04:15,005
+Wybaczcie. To przeciążony system.
+
+52
+00:04:15,088 --> 00:04:18,341
+Przełożymy szkolenie, bo muszę odpocząć.
+
+53
+00:04:18,425 --> 00:04:21,136
+- Mogę ci jakoś pomóc?
+- Możliwe.
+
+54
+00:04:22,387 --> 00:04:27,809
+To Strażnica. Dzięki niej mam dostęp
+do procesora planetarnego.
+
+55
+00:04:27,893 --> 00:04:32,063
+Ale został zniszczony,
+kiedy Mara zaatakowała Etherię.
+
+56
+00:04:32,147 --> 00:04:36,026
+Od tamtej pory dysponuję
+tylko cząstką swojej energii.
+
+57
+00:04:36,109 --> 00:04:38,069
+Jeśli naprawisz Strażnicę,
+
+58
+00:04:38,153 --> 00:04:41,448
+moja wydajność wzrośnie
+i wznowię szkolenie.
+
+59
+00:04:41,531 --> 00:04:44,868
+- Naprawić Strażnicę. Jasne.
+- Wtedy...
+
+60
+00:04:45,786 --> 00:04:48,121
+Zatem po prostu...
+
+61
+00:04:49,039 --> 00:04:50,582
+Po prostu pójdziemy.
+
+62
+00:04:59,841 --> 00:05:02,511
+- Widziałaś gdzieś Entraptę?
+- Nie.
+
+63
+00:05:02,594 --> 00:05:07,349
+A poruszanie się po tym miejscu
+to koszmar.
+
+64
+00:05:16,483 --> 00:05:18,819
+Halo? Lepiej wracaj.
+
+65
+00:05:18,902 --> 00:05:21,988
+Pomocy! Nowy wynalazek Entrapty zwariował!
+
+66
+00:05:22,072 --> 00:05:27,160
+Robot 437 przechodzi kryzys.
+Już dobrze, spokojnie!
+
+67
+00:05:31,540 --> 00:05:33,959
+Weź się w garść. Dasz radę.
+
+68
+00:05:35,460 --> 00:05:38,838
+Przestań! Dlaczego mi to robisz?
+
+69
+00:05:38,922 --> 00:05:43,176
+- Entrapta. Ona naprawdę żyje.
+- I robią jej krzywdę.
+
+70
+00:05:43,260 --> 00:05:45,428
+- Poczekaj!
+- Gdzie ona jest?
+
+71
+00:06:16,209 --> 00:06:20,463
+- Glimmer, musimy uciekać.
+- Brać ich!
+
+72
+00:06:38,315 --> 00:06:41,067
+Czy nie tutaj byliśmy na początku?
+
+73
+00:06:41,818 --> 00:06:43,236
+Ten zamek to horror.
+
+74
+00:06:43,320 --> 00:06:46,031
+Widzę, że Rebelia przysłała elitę.
+
+75
+00:06:55,332 --> 00:06:56,499
+Bow!
+
+76
+00:07:00,420 --> 00:07:02,172
+Glimmer! Obudź się!
+
+77
+00:07:02,255 --> 00:07:04,591
+Coś ty mi zrobiła?
+
+78
+00:07:10,096 --> 00:07:11,514
+Odsuń się!
+
+79
+00:07:21,900 --> 00:07:25,403
+Adora i Swift Wind z misją ruszają
+
+80
+00:07:25,487 --> 00:07:29,199
+Naprawią to, co zepsuła Mara
+Kiedy jej odbiło
+
+81
+00:07:29,282 --> 00:07:31,326
+Mógłbyś przestać?
+
+82
+00:07:31,409 --> 00:07:36,039
+Próbuję nam umilić poszukiwania Strażnicy.
+Widzisz ją gdzieś?
+
+83
+00:07:36,122 --> 00:07:39,876
+Nie, wszędzie trawa.
+Może Light Hope się pomyliła.
+
+84
+00:07:39,960 --> 00:07:45,131
+Nie sądzę.
+Wyczuwam coś historycznego i magicznego.
+
+85
+00:07:45,215 --> 00:07:46,841
+- Gdzie?
+- Sam nie wiem.
+
+86
+00:07:46,925 --> 00:07:51,221
+Połączmy siły,
+a moc mojej intuicji zapewne wzrośnie.
+
+87
+00:07:51,304 --> 00:07:54,474
+Lepiej nie. Trzeba się tylko rozejrzeć.
+
+88
+00:07:54,557 --> 00:07:56,810
+To musi być gdzieś tutaj.
+
+89
+00:07:56,893 --> 00:08:01,439
+Mogę się mylić,
+ale chyba coś cię niepokoi.
+
+90
+00:08:01,523 --> 00:08:04,859
+Myślę, jak pomóc Light Hope.
+Ty też powinieneś.
+
+91
+00:08:04,943 --> 00:08:11,282
+Nie, to nie o to chodzi.
+Wyczuwam twoje emocje.
+
+92
+00:08:11,366 --> 00:08:14,411
+- Czytasz w moich myślach?
+- Nie.
+
+93
+00:08:14,494 --> 00:08:17,414
+Nie umiesz ukryć uczuć. Chodzi o mnie?
+
+94
+00:08:17,497 --> 00:08:23,128
+- Nic mi nie jest i nie chodzi o ciebie.
+- O Bow? Glimmer? Catrę? Hordę?
+
+95
+00:08:23,211 --> 00:08:26,172
+O poczucie odpowiedzialności za Etherię?
+
+96
+00:08:26,256 --> 00:08:30,593
+Przestań. Nic mi nie jest. Serio.
+Daj mi pomyśleć.
+
+97
+00:08:30,677 --> 00:08:34,139
+OK. Ja w tym czasie
+wykonam kilka piruetów.
+
+98
+00:08:40,478 --> 00:08:42,647
+- Swift Wind?
+- Co tam?
+
+99
+00:08:42,731 --> 00:08:45,233
+Chyba znalazłam Strażnicę.
+
+100
+00:08:45,316 --> 00:08:50,030
+Wzięliśmy jeńca, chociaż mamy być dobrzy.
+
+101
+00:08:50,113 --> 00:08:55,118
+- Może lepiej ją wypuśćmy...
+- Wypuśćmy? A ona nas wypuściła?
+
+102
+00:08:55,201 --> 00:08:58,079
+Nie! Pozwoliła, by Horda nas torturowała.
+
+103
+00:08:58,163 --> 00:09:01,249
+Tak, bo ona należy do złych.
+
+104
+00:09:01,332 --> 00:09:04,836
+Nie planowaliśmy tego,
+ale skoro tak się stało,
+
+105
+00:09:04,919 --> 00:09:08,089
+powinniśmy to wykorzystać.
+
+106
+00:09:08,173 --> 00:09:12,677
+Zabieramy cię do Bright Moon
+i wymienimy na Entraptę.
+
+107
+00:09:12,761 --> 00:09:14,763
+Entraptę? A kto to jest?
+
+108
+00:09:14,846 --> 00:09:19,559
+Wiemy, że ją pojmaliście! Gdzie ona jest?
+Co jej zrobiliście?
+
+109
+00:09:19,642 --> 00:09:20,935
+Glimmer!
+
+110
+00:09:21,019 --> 00:09:26,983
+Ach, Entrapta. To ta księżniczka,
+którą zostawiliście na śmierć.
+
+111
+00:09:27,067 --> 00:09:30,570
+Spoko. Dobrze się nią zajęliśmy.
+
+112
+00:09:30,653 --> 00:09:33,156
+Wstawaj, kanalio.
+
+113
+00:09:33,907 --> 00:09:36,993
+Nie mogę chodzić.
+Chyba że mnie rozwiążecie.
+
+114
+00:09:37,077 --> 00:09:42,832
+- Sprytnie. Po prostu nas teleportuję.
+- Pozwolisz na słówko?
+
+115
+00:09:42,916 --> 00:09:47,879
+Bright Moon jest daleko.
+Nie lepiej poczekać aż będziemy bliżej?
+
+116
+00:09:47,962 --> 00:09:52,926
+Jeśli stracisz moc, utkniemy w pół drogi.
+Z nią to niebezpieczne.
+
+117
+00:09:53,885 --> 00:09:54,885
+Dobrze.
+
+118
+00:10:02,435 --> 00:10:07,232
+- Mara odstawiła tu niezły numer.
+- Zaraz to poskładamy.
+
+119
+00:10:07,315 --> 00:10:09,651
+Na honor posępnego czerepu!
+
+120
+00:10:19,202 --> 00:10:23,206
+She-Ra i Swift Wind uświęconą tworzą więź
+
+121
+00:10:23,289 --> 00:10:26,751
+Magiczną wieżę naprawiając
+Magicznym mieczem
+
+122
+00:10:30,505 --> 00:10:33,133
+- Wszystko OK?
+- Nie udawaj troski.
+
+123
+00:10:33,216 --> 00:10:37,846
+Nie udaję. Rebelia dba o swoich jeńców.
+
+124
+00:10:37,929 --> 00:10:41,266
+Ta ckliwość jest dla was typowa.
+
+125
+00:10:41,349 --> 00:10:43,935
+Wciąż słyszę o sile przyjaźni.
+
+126
+00:10:44,018 --> 00:10:48,022
+- I co z tego masz?
+- Wy na pewno też się przyjaźnicie.
+
+127
+00:10:48,106 --> 00:10:49,482
+Weźmy Adorę.
+
+128
+00:10:49,566 --> 00:10:53,278
+Wychowywałyście się razem.
+Jaka była jako dziecko?
+
+129
+00:10:53,361 --> 00:10:55,947
+Ja z Glimmer znamy się od zawsze.
+
+130
+00:10:56,030 --> 00:10:59,868
+Dzięki teleportacji
+przynosiła mi z dachu strzały.
+
+131
+00:10:59,951 --> 00:11:02,120
+Musicie być sobie bliscy.
+
+132
+00:11:02,203 --> 00:11:05,832
+- Glimmer wiele by dla ciebie zrobiła.
+- Jasne.
+
+133
+00:11:05,915 --> 00:11:08,710
+- To moja przyjaciółka.
+- Świetnie.
+
+134
+00:11:10,170 --> 00:11:11,212
+Bow!
+
+135
+00:11:12,755 --> 00:11:16,301
+- Hej, księżniczko.
+- Jak możesz być tak wredna?
+
+136
+00:11:16,384 --> 00:11:18,761
+- Lata praktyki.
+- Może pogadacie
+
+137
+00:11:18,845 --> 00:11:21,389
+kiedy indziej, bo zaraz zginiemy.
+
+138
+00:11:21,472 --> 00:11:24,225
+Ciekawe, czy koty spadają na cztery łapy.
+
+139
+00:11:24,309 --> 00:11:27,395
+Nie! Ona mnie trzyma!
+
+140
+00:11:28,062 --> 00:11:30,481
+- Glimmer!
+- OK.
+
+141
+00:11:34,152 --> 00:11:36,029
+Nie lubisz wody, co?
+
+142
+00:11:36,362 --> 00:11:39,240
+- Puść mnie!
+- Glimmer! Na pomoc!
+
+143
+00:11:40,950 --> 00:11:44,495
+Możesz mnie ratować,
+gdy tylko będziesz gotowa.
+
+144
+00:11:44,579 --> 00:11:46,289
+Daj mi odsapnąć.
+
+145
+00:11:46,372 --> 00:11:49,125
+Co możesz zrobić w dziesięć sekund?
+
+146
+00:11:50,793 --> 00:11:54,005
+Nie wierzę. Fatalnie wam idzie.
+
+147
+00:12:01,596 --> 00:12:05,558
+Jesteśmy cali i zdrowi.
+Szkoda, że Entrapta nie.
+
+148
+00:12:07,101 --> 00:12:08,811
+Wszystko OK?
+
+149
+00:12:08,895 --> 00:12:12,148
+Co to?
+Zmęczyły cię magiczne sztuczki?
+
+150
+00:12:13,900 --> 00:12:15,985
+Nie, ale szkoda na ciebie czasu.
+
+151
+00:12:16,069 --> 00:12:18,905
+Ruszaj. Do Bright Moon daleka droga.
+
+152
+00:12:23,409 --> 00:12:25,370
+Zwiąż ją dokładniej.
+
+153
+00:12:27,747 --> 00:12:31,876
+Jak to, zniknęła bez śladu?
+Dokąd mogli pójść?
+
+154
+00:12:31,960 --> 00:12:34,003
+Mamy powiedzieć Hordakowi?
+
+155
+00:12:34,087 --> 00:12:38,132
+Wysłać grupę poszukiwawczą?
+Rozesłać listy? Jak ją odnaleźć?
+
+156
+00:12:38,216 --> 00:12:42,637
+Jeśli spadnie jej choć włos z głowy,
+to sama nie wiem...
+
+157
+00:12:46,099 --> 00:12:50,603
+Wysyła nam sygnał! Pójdziemy tym tropem.
+Catro, nadchodzę!
+
+158
+00:12:57,694 --> 00:12:59,112
+Skup się.
+
+159
+00:12:59,195 --> 00:13:02,907
+- Skieruj myśli na She-Rę. She-Ra...
+- Nie mogę,
+
+160
+00:13:02,991 --> 00:13:06,953
+bo ciągle mnie rozpraszasz!
+U Salinów mi się udało.
+
+161
+00:13:07,036 --> 00:13:11,290
+Wiesz, co może pomóc?
+Piruety. Wskakuj na mój grzbiet.
+
+162
+00:13:11,374 --> 00:13:16,087
+- Nie traktujesz tego serio.
+- Z piruetami wszystko jest lepsze.
+
+163
+00:13:16,170 --> 00:13:18,131
+Poradzę sobie.
+
+164
+00:13:32,103 --> 00:13:33,479
+Radzę sobie.
+
+165
+00:13:37,692 --> 00:13:41,029
+Nie wiem jak wy, ale ja jestem skonana.
+
+166
+00:13:41,112 --> 00:13:44,198
+Rola jeńca mnie wykańcza.
+
+167
+00:13:46,617 --> 00:13:51,039
+Prawie tak samo
+jak codzienne torturowanie Entrapty.
+
+168
+00:13:51,122 --> 00:13:53,291
+Nie będę na nią zwracać uwagi.
+
+169
+00:13:57,003 --> 00:13:59,964
+Też wydajesz się zmęczona, księżniczko.
+
+170
+00:14:01,340 --> 00:14:06,429
+- Moce ci się kończą?
+- Bow, mógłbyś jej zamknąć buzię?
+
+171
+00:14:06,512 --> 00:14:08,806
+Próbowałem, ale ona gryzie.
+
+172
+00:14:11,059 --> 00:14:13,561
+Jak Adora wytrzymała z tobą tyle lat?
+
+173
+00:14:13,644 --> 00:14:18,066
+Nie uciekła od Hordy, tylko od ciebie.
+
+174
+00:14:18,149 --> 00:14:22,070
+A gdzie jest teraz? Bawi się w She-Rę?
+Przywyknij do tego.
+
+175
+00:14:22,153 --> 00:14:25,406
+Myślisz, że ciebie nie zostawi?
+
+176
+00:14:27,283 --> 00:14:28,993
+Nie ruszać się!
+
+177
+00:14:42,882 --> 00:14:46,886
+- I jak?
+- Ten raczej tam nie pasuje.
+
+178
+00:14:46,969 --> 00:14:51,974
+Chyba jest do góry nogami.
+Rozmontuj to i zacznij od nowa.
+
+179
+00:14:52,725 --> 00:14:57,063
+Jesteś spięta.
+Może wymienimy swoje ulubione rzeczy?
+
+180
+00:14:57,146 --> 00:15:02,151
+Najpierw ja. Jabłka, siano, obalanie
+niesłusznych rządów, jabłka...
+
+181
+00:15:02,235 --> 00:15:04,237
+Zaraz, to już mówiłem.
+
+182
+00:15:06,239 --> 00:15:08,699
+- Co robisz?
+- Pomagam.
+
+183
+00:15:08,783 --> 00:15:11,953
+Jestem rumakiem She-Ry,
+taka jest moja rola.
+
+184
+00:15:13,204 --> 00:15:16,958
+- To na nic! Nie mógłbyś...?
+- Adoro!
+
+185
+00:15:17,041 --> 00:15:21,337
+Catro, jesteś cała? Skrzywdzili cię?
+Zniszczę ich!
+
+186
+00:15:21,421 --> 00:15:27,593
+Nic jej nie jest. Dobijmy targu.
+Uwolnimy ją, a wy wypuścicie Entraptę.
+
+187
+00:15:27,677 --> 00:15:33,891
+Mam lepszy pomysł. Uwolnicie mnie,
+bo wykończymy Entraptę.
+
+188
+00:15:33,975 --> 00:15:35,893
+- Co?
+- Ona blefuje.
+
+189
+00:15:36,936 --> 00:15:39,272
+Scorpio, połącz się z Kyle'em.
+
+190
+00:15:41,816 --> 00:15:45,778
+Nie! Zaraz! Poczekaj! Nie!
+
+191
+00:15:45,862 --> 00:15:49,073
+Kapitanie Catro, co mam robić?
+
+192
+00:15:49,157 --> 00:15:53,703
+Jeśli nie odezwiemy się w ciągu 30 sekund,
+załatw Entraptę.
+
+193
+00:15:53,786 --> 00:15:55,288
+Co?
+
+194
+00:15:56,205 --> 00:16:00,626
+Spokojnie. Zaraz coś wymyślimy.
+Wszystko jest w porządku.
+
+195
+00:16:03,337 --> 00:16:08,092
+- Ja też potrafię grać twardo.
+- Jeśli jeszcze raz ją tkniesz...
+
+196
+00:16:08,176 --> 00:16:12,513
+Spokojnie. Nic mi nie zrobi.
+To szlachetni Rebelianci.
+
+197
+00:16:12,597 --> 00:16:14,432
+Stosują czyste zasady.
+
+198
+00:16:18,603 --> 00:16:20,438
+Glimmer, przestań!
+
+199
+00:16:21,355 --> 00:16:25,193
+To nie fair. Po tym wszystkim, co zrobiła?
+
+200
+00:16:25,276 --> 00:16:29,947
+Po tym, co nam zrobiła? Mamy ją uwolnić?
+
+201
+00:16:30,948 --> 00:16:35,286
+Skąd wiemy, że naprawdę
+pozbędą się Entrapty? Potrzebują jej.
+
+202
+00:16:35,495 --> 00:16:39,957
+Nie możemy ryzykować. Są nieprzewidywalni.
+
+203
+00:16:45,588 --> 00:16:50,551
+Chodź! Chodź tu. Jak dobrze,
+że ten koszmar się skończył.
+
+204
+00:16:52,220 --> 00:16:58,017
+- Nie sądziłam, że dadzą się nabrać.
+- Dotrzymaliśmy naszej części umowy.
+
+205
+00:16:58,100 --> 00:17:03,773
+- Udowodnij, że Entrapta żyje.
+- Dobrałyście się z Adorą w korcu maku.
+
+206
+00:17:03,856 --> 00:17:07,485
+Jesteście poważne, naiwne
+i dajecie wodzić się za nos.
+
+207
+00:17:07,568 --> 00:17:09,153
+To urocze.
+
+208
+00:17:09,612 --> 00:17:12,615
+Ale nigdy nie da wam zwycięstwa.
+
+209
+00:17:13,199 --> 00:17:16,536
+Kyle, nie mówiłam serio. Odwołaj akcję.
+
+210
+00:17:16,619 --> 00:17:19,497
+Kyle nie jest w tej chwili dostępny.
+
+211
+00:17:20,957 --> 00:17:23,292
+Ale ja panuję nad sytuacją.
+
+212
+00:17:26,170 --> 00:17:31,384
+Nie ma sprawy. To był tylko prototyp.
+Następny model będzie większy.
+
+213
+00:17:32,301 --> 00:17:36,180
+- Entrapta? Co jest grane?
+- Chcecie z nią pogadać?
+
+214
+00:17:36,264 --> 00:17:38,599
+Hej, Bow, co tam robisz?
+
+215
+00:17:38,683 --> 00:17:43,813
+- Trzymaj się, Entrapto. Ocalimy cię.
+- Świetnie. A przed czym?
+
+216
+00:17:43,896 --> 00:17:46,732
+- Przed Hordą!
+- To miło z waszej strony.
+
+217
+00:17:46,816 --> 00:17:50,820
+Ale wszystkie moje rzeczy są tutaj,
+więc chyba zostanę.
+
+218
+00:17:50,903 --> 00:17:56,284
+- W każdym razie dzięki.
+- Jesteś po stronie Hordy?
+
+219
+00:17:57,118 --> 00:18:01,831
+Jestem po stronie nauki.
+Ale mieszkam w Strefie Trwogi
+
+220
+00:18:01,914 --> 00:18:06,210
+i Horda dostarcza mi narzędzi do pracy.
+
+221
+00:18:06,294 --> 00:18:10,881
+- Zatem, chyba tak.
+- Nie mówiłam wam o tym?
+
+222
+00:18:10,965 --> 00:18:13,884
+Nie martwcie się o mnie.
+Tu mi się podoba.
+
+223
+00:18:13,968 --> 00:18:16,762
+Dokonałam postępów w badaniach.
+
+224
+00:18:16,846 --> 00:18:19,473
+Horda silnie mnie wspiera.
+
+225
+00:18:19,557 --> 00:18:23,519
+Jestem coraz bliżej
+odkrycia tajemnic Etherii.
+
+226
+00:18:23,603 --> 00:18:26,480
+Czarny Granat to dopiero początek.
+
+227
+00:18:26,564 --> 00:18:31,360
+- To była twoja sprawka?
+- Taka jest właśnie siła przyjaźni.
+
+228
+00:18:33,237 --> 00:18:35,823
+Chodź, Glimmer. Idziemy.
+
+229
+00:18:36,741 --> 00:18:38,075
+Glimmer?
+
+230
+00:18:41,829 --> 00:18:45,708
+- Adoro! Wszystko OK?
+- Sama nie wiem, co robię.
+
+231
+00:18:45,791 --> 00:18:50,046
+Nie rozumiem, jak ta Strażnica ma pomóc.
+
+232
+00:18:50,129 --> 00:18:54,300
+Skoro tak, to czemu robisz to wszystko?
+
+233
+00:18:55,217 --> 00:18:58,137
+Chcę być lepsza niż Mara.
+
+234
+00:18:58,220 --> 00:19:01,974
+Chcę kontrolować emocje
+i nie krzywdzić innych.
+
+235
+00:19:02,058 --> 00:19:05,311
+Light Hope mnie tego nauczy,
+ale się popsuła.
+
+236
+00:19:06,103 --> 00:19:08,731
+Odbija ci na punkcie Mary.
+
+237
+00:19:08,814 --> 00:19:11,817
+Dziwisz się? Ona wszystko zniszczyła.
+
+238
+00:19:11,901 --> 00:19:13,986
+Nie wiem, jak to naprawić.
+
+239
+00:19:14,070 --> 00:19:16,864
+Żałuję, że się nie przykładałem.
+
+240
+00:19:16,947 --> 00:19:21,994
+Być twoim rumakiem to wielka radość.
+Dałem się jej ponieść.
+
+241
+00:19:22,078 --> 00:19:25,039
+Wybacz, że cię w to wciągnęłam.
+
+242
+00:19:25,122 --> 00:19:28,542
+Gdyby nie magia miecza,
+byłbyś zwykłym koniem.
+
+243
+00:19:28,626 --> 00:19:34,548
+To przeze mnie nie możesz już biegać
+po pastwiskach Thaymoru.
+
+244
+00:19:35,257 --> 00:19:41,347
+Za nic nie oddałbym głosu i skrzydeł.
+Teraz mogę zmienić świat.
+
+245
+00:19:41,430 --> 00:19:46,268
+Uczynić go lepszym.
+Nie chcę wracać do przeszłości. A ty?
+
+246
+00:19:46,352 --> 00:19:48,854
+Ja też nie.
+
+247
+00:19:56,862 --> 00:19:57,862
+Glimmer!
+
+248
+00:20:02,326 --> 00:20:06,038
+Zostawcie księżniczkę, już nie ma mocy!
+Łapcie jego!
+
+249
+00:20:07,123 --> 00:20:09,834
+Nie jestem tak naiwna, jak sądzisz.
+
+250
+00:20:11,085 --> 00:20:14,255
+Zachowałam nieco mocy,
+specjalnie dla ciebie.
+
+251
+00:20:17,967 --> 00:20:19,385
+Nie!
+
+252
+00:20:27,059 --> 00:20:29,937
+- Czy to...?
+- Nasza uświęcona więź?
+
+253
+00:20:34,525 --> 00:20:38,612
+Właśnie to wyczuwałem. Epicentrum.
+
+254
+00:20:38,696 --> 00:20:43,033
+She-Ra zniszczyła to miejsce
+i She-Ra je naprawi.
+
+255
+00:20:43,117 --> 00:20:46,078
+Na honor posępnego czerepu!
+
+256
+00:21:33,250 --> 00:21:35,503
+Spokojnie. Zostaw to mnie.
+
+257
+00:21:37,338 --> 00:21:39,507
+Piruety.
+
+258
+00:21:55,523 --> 00:21:59,068
+Niezły z nas zespół.
+Coraz lepiej nam idzie.
+
+259
+00:22:04,156 --> 00:22:06,909
+Wtedy moje funkcje powrócą...
+
+260
+00:22:08,202 --> 00:22:10,830
+Czujniki wskazują, że ją naprawili.
+
+261
+00:22:11,080 --> 00:22:12,080
+To dobrze.
+
+262
+00:22:14,124 --> 00:22:18,838
+Przynajmniej wiemy, że Entrapta żyje
+i pracuje dla Hordy,
+
+263
+00:22:18,921 --> 00:22:21,549
+tworząc broń, która nas zmiecie.
+
+264
+00:22:22,758 --> 00:22:25,761
+Zgadnijcie, co zrobiliśmy ze Swift Windem.
+
+265
+00:22:25,844 --> 00:22:29,848
+Odbudowaliśmy Strażnicę,
+dzięki czemu Light Hope
+
+266
+00:22:29,932 --> 00:22:33,936
+może utrzymać planetę w równowa...
+Co wam się stało?
+
+267
+00:22:34,520 --> 00:22:38,774
+Adoro, mamy ci tyle do opowiedzenia.
+
+268
+00:23:08,762 --> 00:23:11,265
+Napisy: Malgorzata Siemionkowska
+

@@ -1,0 +1,1441 @@
+﻿1
+00:00:19,769 --> 00:00:21,939
+Lecimy w dobrą stronę?
+
+2
+00:00:22,022 --> 00:00:24,232
+Jesteś pewna na 100 procent?
+
+3
+00:00:24,858 --> 00:00:27,318
+Nie wiem. Musimy wierzyć,
+
+4
+00:00:27,402 --> 00:00:29,612
+że system nawigacyjny się nie myli.
+
+5
+00:00:29,696 --> 00:00:31,106
+Przestań pytać.
+
+6
+00:00:31,197 --> 00:00:32,777
+Musimy być blisko.
+
+7
+00:00:32,907 --> 00:00:33,827
+Zaraz dotrzemy.
+
+8
+00:00:33,908 --> 00:00:35,738
+Wyspa Bestii jest tu.
+
+9
+00:00:36,494 --> 00:00:37,494
+W okolicy.
+
+10
+00:00:37,829 --> 00:00:38,999
+Znajdziemy ją.
+
+11
+00:00:39,789 --> 00:00:40,789
+Musimy.
+
+12
+00:00:41,041 --> 00:00:43,631
+Glimmer będzie się gniewać?
+
+13
+00:00:43,710 --> 00:00:47,420
+W końcu złamaliśmy jej rozkaz.
+
+14
+00:00:47,505 --> 00:00:49,085
+Zrozumie.
+
+15
+00:00:49,299 --> 00:00:51,179
+Chcemy dobra Etherii.
+
+16
+00:00:51,259 --> 00:00:52,639
+Gdy odbijemy Entraptę,
+
+17
+00:00:52,719 --> 00:00:54,759
+Glimmer nas pochwali.
+
+18
+00:00:55,013 --> 00:00:57,643
+No tak. Ale... A jeśli nie?
+
+19
+00:00:57,724 --> 00:00:59,854
+Jeśli się do mnie nie odezwie?
+
+20
+00:01:00,060 --> 00:01:03,400
+Bow, czy to coś powinno tak migać?
+
+21
+00:01:05,023 --> 00:01:06,823
+Nie wiem. Statku?
+
+22
+00:01:07,567 --> 00:01:09,937
+Słuchajcie, coś tu wyczuwam.
+
+23
+00:01:10,028 --> 00:01:13,068
+Coś dużego i niedobrego.
+
+24
+00:01:13,406 --> 00:01:14,816
+I chyba słyszę...
+
+25
+00:01:21,831 --> 00:01:23,671
+Nie panikujcie.
+
+26
+00:01:27,337 --> 00:01:29,417
+Możecie panikować!
+
+27
+00:01:37,347 --> 00:01:38,427
+Patrzcie.
+
+28
+00:01:39,098 --> 00:01:40,678
+To Wyspa Bestii.
+
+29
+00:01:42,435 --> 00:01:45,095
+<i>Gdzie na progu wielkości</i>
+
+30
+00:01:46,064 --> 00:01:48,364
+<i>Ciemność zmienia się w blask</i>
+
+31
+00:01:49,400 --> 00:01:53,070
+<i>My tuż przy tobie Będziemy stać</i>
+
+32
+00:01:53,905 --> 00:01:56,115
+<i>Wygrać musimy ten bój</i>
+
+33
+00:01:56,199 --> 00:01:57,829
+<i>Silni jak nikt</i>
+
+34
+00:01:57,909 --> 00:01:59,699
+<i>I dzielni jak nikt</i>
+
+35
+00:01:59,786 --> 00:02:01,536
+<i>Dzielni jak nikt</i>
+
+36
+00:02:01,621 --> 00:02:06,581
+<i>Znajdziemy tam wielką moc, bo już czas
+Użyć wszystkich sił, by zrobić to</i>
+
+37
+00:02:08,044 --> 00:02:09,754
+<i>Zrobimy to</i>
+
+38
+00:02:25,478 --> 00:02:28,978
+W dzieciństwie mówiono nam
+o groźnej Wyspie Bestii.
+
+39
+00:02:29,190 --> 00:02:31,900
+O czibitsach z ostrymi zębami.
+
+40
+00:02:32,026 --> 00:02:34,276
+Skrafersach z ostrymi rogami.
+
+41
+00:02:34,487 --> 00:02:36,947
+- Brzytwopłetwych z...
+- Ostrymi płetwami?
+
+42
+00:02:37,031 --> 00:02:38,371
+Z ostrymi zębami.
+
+43
+00:02:38,449 --> 00:02:40,909
+- Nie wiem, skąd nazwa.
+- Adoro.
+
+44
+00:02:46,416 --> 00:02:48,586
+OK. To normalne.
+
+45
+00:02:50,003 --> 00:02:52,633
+Entrapta. Musiała tu być.
+
+46
+00:02:52,714 --> 00:02:54,474
+Dokąd poszła?
+
+47
+00:02:55,216 --> 00:02:57,966
+Co to za hałas?
+
+48
+00:02:58,678 --> 00:02:59,678
+Jaki hałas?
+
+49
+00:03:01,723 --> 00:03:02,723
+Już nie ma.
+
+50
+00:03:03,266 --> 00:03:04,476
+Nie słyszeliście?
+
+51
+00:03:05,435 --> 00:03:09,265
+Opowiadali o dźwiękach,
+które słyszą tylko konie?
+
+52
+00:03:09,397 --> 00:03:10,817
+Nie pamiętam.
+
+53
+00:03:11,733 --> 00:03:15,653
+Słyszałem ten dźwięk
+przed rozbiciem statku.
+
+54
+00:03:16,237 --> 00:03:17,697
+Technologia Pierwszych.
+
+55
+00:03:18,072 --> 00:03:20,202
+To technologia Pierwszych.
+
+56
+00:03:20,283 --> 00:03:23,543
+Ale jest zniszczona. Stopiona.
+
+57
+00:03:23,620 --> 00:03:27,170
+To musiało być jakieś ich wysypisko.
+
+58
+00:03:38,593 --> 00:03:40,683
+Chodźmy, póki jest widno.
+
+59
+00:03:40,845 --> 00:03:42,385
+Entrapta tu jest.
+
+60
+00:03:48,686 --> 00:03:52,226
+<i>Na tej strasznej, koszmarnej wyspie</i>
+
+61
+00:03:54,817 --> 00:03:57,317
+<i>Na którą przylecieliśmy z własnej woli</i>
+
+62
+00:03:57,403 --> 00:03:59,073
+<i>Więc wszystko jest OK</i>
+
+63
+00:04:02,200 --> 00:04:05,750
+<i>Przespacerujmy się po strasznej wyspie</i>
+
+64
+00:04:05,828 --> 00:04:06,868
+<i>Tylko żartuję</i>
+
+65
+00:04:06,955 --> 00:04:09,705
+<i>Wcale nie jest strasznie</i>
+
+66
+00:04:09,791 --> 00:04:10,791
+<i>Chcę do domu</i>
+
+67
+00:04:19,801 --> 00:04:21,641
+Może wszystko ucichło
+
+68
+00:04:22,762 --> 00:04:23,892
+z dobrego powodu?
+
+69
+00:04:29,143 --> 00:04:30,853
+Nie, to zły powód.
+
+70
+00:04:31,396 --> 00:04:33,686
+Nie ruszajcie się.
+
+71
+00:04:35,358 --> 00:04:36,988
+Może nas nie zauważy.
+
+72
+00:04:42,156 --> 00:04:43,776
+Na honor posępnego czerepu!
+
+73
+00:04:45,827 --> 00:04:47,077
+Adoro?
+
+74
+00:04:48,162 --> 00:04:49,162
+W nogi!
+
+75
+00:04:58,840 --> 00:05:01,180
+Czemu się nie zmieniasz?
+
+76
+00:05:01,301 --> 00:05:02,301
+Nie wiem.
+
+77
+00:05:02,552 --> 00:05:04,512
+Znowu ten dźwięk.
+
+78
+00:05:04,762 --> 00:05:06,762
+Nikt tego nie słyszy?
+
+79
+00:05:21,571 --> 00:05:22,611
+Nie!
+
+80
+00:05:23,364 --> 00:05:24,624
+No dalej.
+
+81
+00:05:24,782 --> 00:05:26,582
+Na honor posępnego czerepu!
+
+82
+00:05:34,167 --> 00:05:35,167
+Adoro!
+
+83
+00:05:54,520 --> 00:05:56,360
+Co to za jeden?
+
+84
+00:06:16,709 --> 00:06:18,799
+Dziękuję. Ocaliłeś nas.
+
+85
+00:06:19,045 --> 00:06:20,045
+Kim...?
+
+86
+00:06:22,423 --> 00:06:23,423
+Król Micah.
+
+87
+00:06:28,221 --> 00:06:29,221
+Light Hope?
+
+88
+00:06:32,058 --> 00:06:35,558
+Królowa Bright Moon
+żąda rozmowy z Light Hope.
+
+89
+00:06:37,230 --> 00:06:38,270
+Natychmiast.
+
+90
+00:06:44,487 --> 00:06:48,737
+W imieniu Wielkiej Rebelii
+żądam odpowiedzi na pytania.
+
+91
+00:06:50,743 --> 00:06:51,743
+Eternio?
+
+92
+00:06:54,372 --> 00:06:56,172
+Wiem, że mnie słyszysz.
+
+93
+00:06:59,293 --> 00:07:00,553
+Zatem to tak.
+
+94
+00:07:00,628 --> 00:07:03,008
+Więc zmuszę cię do odpowiedzi.
+
+95
+00:07:07,009 --> 00:07:09,639
+<i>Wykryto nieupoważnioną osobę.</i>
+
+96
+00:07:09,720 --> 00:07:12,140
+<i>Aktywuję zabezpieczenia.</i>
+
+97
+00:07:19,981 --> 00:07:22,691
+Tak łatwo się mnie nie pozbędziesz.
+
+98
+00:07:25,153 --> 00:07:26,153
+Wasza Wysokość.
+
+99
+00:07:28,364 --> 00:07:29,534
+Wiecie, kim jestem?
+
+100
+00:07:30,241 --> 00:07:31,951
+Tu nie jestem królem.
+
+101
+00:07:32,034 --> 00:07:33,374
+Wiemy.
+
+102
+00:07:33,703 --> 00:07:36,873
+Jestem Adora. To Swift Wind i Bow.
+
+103
+00:07:36,998 --> 00:07:38,958
+Królu, to wspaniale...
+
+104
+00:07:40,626 --> 00:07:41,626
+cię poznać.
+
+105
+00:07:42,920 --> 00:07:43,840
+Wybaczcie.
+
+106
+00:07:43,921 --> 00:07:47,431
+Minęło sporo czasu,
+odkąd z kimś rozmawiałem.
+
+107
+00:07:47,508 --> 00:07:49,298
+Z kimś prawdziwym.
+
+108
+00:07:50,428 --> 00:07:51,848
+Jesteście prawdziwi?
+
+109
+00:07:51,929 --> 00:07:53,179
+Jak najbardziej.
+
+110
+00:07:53,848 --> 00:07:54,848
+Hej.
+
+111
+00:07:55,224 --> 00:07:56,274
+A ty, królu?
+
+112
+00:07:56,350 --> 00:07:58,770
+Myśleliśmy, że nie żyjesz.
+
+113
+00:07:58,853 --> 00:08:00,813
+Taki był plan Hordy.
+
+114
+00:08:00,897 --> 00:08:04,147
+Zesłali mnie tutaj. Ale przetrwałem.
+
+115
+00:08:05,526 --> 00:08:07,606
+Jesteśmy z Bright Moon.
+
+116
+00:08:07,695 --> 00:08:09,315
+Znamy twoją córkę, Glimmer.
+
+117
+00:08:09,906 --> 00:08:10,986
+Moją Glimmer?
+
+118
+00:08:14,285 --> 00:08:17,455
+Nie czas na uprzejmości. Szybko, za mną!
+
+119
+00:08:31,844 --> 00:08:34,394
+Możemy tu na chwilę odpocząć.
+
+120
+00:08:34,472 --> 00:08:36,772
+Spokój, cisza i...
+
+121
+00:08:38,476 --> 00:08:39,476
+Mam cię!
+
+122
+00:08:41,229 --> 00:08:43,309
+Zapomniałem o manierach.
+
+123
+00:08:43,606 --> 00:08:44,606
+Robaczka?
+
+124
+00:08:46,025 --> 00:08:47,025
+Nie.
+
+125
+00:08:51,030 --> 00:08:53,320
+Co was tu sprowadza?
+
+126
+00:08:54,116 --> 00:08:56,736
+Szukamy przyjaciółki,
+księżniczki Entrapty.
+
+127
+00:08:56,911 --> 00:09:00,251
+Widziałeś ją?
+Ma purpurowe włosy i lubi roboty.
+
+128
+00:09:00,331 --> 00:09:02,171
+Strasznie lubi roboty.
+
+129
+00:09:02,416 --> 00:09:03,706
+Znam ją.
+
+130
+00:09:04,377 --> 00:09:08,007
+Ukradła mój prowiant.
+Ale tylko małe porcje.
+
+131
+00:09:08,089 --> 00:09:09,299
+Świetnie.
+
+132
+00:09:09,382 --> 00:09:11,632
+Nie mówię o prowiancie.
+
+133
+00:09:11,717 --> 00:09:14,137
+Jest cała, a przynajmniej była.
+
+134
+00:09:14,220 --> 00:09:16,470
+- Wiesz, dokąd poszła?
+- Tak.
+
+135
+00:09:16,556 --> 00:09:18,216
+Gadający koń?
+
+136
+00:09:18,891 --> 00:09:19,931
+Słyszę cię.
+
+137
+00:09:20,017 --> 00:09:22,437
+Jestem Swift Wind i...
+
+138
+00:09:22,520 --> 00:09:23,980
+I ma skrzydła!
+
+139
+00:09:24,939 --> 00:09:27,479
+To na pewno ojciec Glimmer.
+
+140
+00:09:28,025 --> 00:09:30,025
+Proszę mnie puścić.
+
+141
+00:09:30,444 --> 00:09:32,784
+Wybacz.
+
+142
+00:09:32,863 --> 00:09:36,333
+Dawno nie rozmawiałem z ludźmi. Czy końmi.
+
+143
+00:09:36,450 --> 00:09:39,200
+Bo najwyraźniej teraz konie mówią.
+
+144
+00:09:41,539 --> 00:09:45,129
+Mówiłeś o Entrapcie. Wiesz, gdzie jest?
+
+145
+00:09:45,209 --> 00:09:47,959
+Tak. Udała się do centrum wyspy.
+
+146
+00:09:48,045 --> 00:09:49,295
+Zanim ją zatrzymałem.
+
+147
+00:09:49,380 --> 00:09:50,630
+To do niej podobne.
+
+148
+00:09:50,715 --> 00:09:53,425
+- Wskażesz...
+- Nie możecie tam iść.
+
+149
+00:09:54,260 --> 00:09:55,260
+Nie wrócicie.
+
+150
+00:09:55,344 --> 00:09:57,684
+Tam sygnał jest najsilniejszy.
+
+151
+00:09:57,763 --> 00:09:58,763
+Sygnał.
+
+152
+00:09:58,806 --> 00:10:00,806
+To dźwięk, który słyszałem.
+
+153
+00:10:00,891 --> 00:10:03,141
+- Co to jest?
+- Słyszałeś?
+
+154
+00:10:03,728 --> 00:10:05,058
+Nie mamy czasu.
+
+155
+00:10:05,438 --> 00:10:09,318
+Tu jest pełno technologii Pierwszych.
+
+156
+00:10:09,400 --> 00:10:10,650
+Parę rzeczy działa.
+
+157
+00:10:10,735 --> 00:10:14,775
+Coś w samym centrum wyspy
+ciągle emituje sygnał.
+
+158
+00:10:14,864 --> 00:10:16,664
+On osłabia umysł,
+
+159
+00:10:16,741 --> 00:10:19,991
+obnaża słabości i wabi.
+
+160
+00:10:20,161 --> 00:10:23,461
+Wszystko, co zostaje na wyspie,
+staje się jej częścią.
+
+161
+00:10:26,334 --> 00:10:28,674
+Zostańcie dłużej, usłyszycie.
+
+162
+00:10:29,128 --> 00:10:32,838
+Słyszę go każdego dnia. Od miesięcy, lat.
+
+163
+00:10:33,466 --> 00:10:35,176
+Straciłem poczucie czasu.
+
+164
+00:10:35,259 --> 00:10:36,299
+Ale się nie daję.
+
+165
+00:10:36,427 --> 00:10:38,637
+W końcu ucieknę z tej wyspy
+
+166
+00:10:38,721 --> 00:10:40,431
+i spotkam się z rodziną.
+
+167
+00:10:41,932 --> 00:10:44,892
+Opowiedzcie o Rebelii i Bright Moon.
+
+168
+00:10:44,977 --> 00:10:46,937
+O mojej córce. Znacie ją?
+
+169
+00:10:47,021 --> 00:10:48,651
+Glimmer? Pewnie.
+
+170
+00:10:49,106 --> 00:10:50,106
+Jest...
+
+171
+00:10:50,524 --> 00:10:52,234
+- Ona...
+- To przyjaciółka.
+
+172
+00:10:52,568 --> 00:10:54,448
+Jesteśmy kumpel-ferajną.
+
+173
+00:10:54,654 --> 00:10:56,614
+To do niej podobne.
+
+174
+00:10:56,947 --> 00:11:00,657
+Chce być dorosła
+i kolegować się ze starszymi.
+
+175
+00:11:00,826 --> 00:11:03,246
+Co z Angellą? Widzieliście ją?
+
+176
+00:11:03,829 --> 00:11:05,249
+Wasza Wysokość...
+
+177
+00:11:06,499 --> 00:11:08,419
+- Co to?
+- Ruszajmy.
+
+178
+00:11:08,501 --> 00:11:10,711
+Pomogę wam znaleźć przyjaciółkę.
+
+179
+00:11:10,795 --> 00:11:12,585
+Pomożecie mi stąd uciec?
+
+180
+00:11:13,297 --> 00:11:14,127
+Jasne.
+
+181
+00:11:14,256 --> 00:11:16,426
+Razem się stąd wydostaniemy.
+
+182
+00:11:16,759 --> 00:11:18,839
+To na co czekamy? Za mną!
+
+183
+00:11:45,287 --> 00:11:48,247
+Wpuszczają konie do Sali Rady Wojennej
+
+184
+00:11:48,332 --> 00:11:52,212
+- i każdy ma krzesło?
+- Duże, wygodne krzesło.
+
+185
+00:11:52,503 --> 00:11:54,463
+I nieograniczoną ilość cukru.
+
+186
+00:11:57,007 --> 00:11:58,087
+Brzmi nieźle.
+
+187
+00:12:05,558 --> 00:12:08,638
+Nie mogę uwierzyć, że tata Glimmer żyje.
+
+188
+00:12:08,853 --> 00:12:10,063
+I jest fajny.
+
+189
+00:12:13,274 --> 00:12:15,364
+Trochę dziwny, ale to zrozumiałe.
+
+190
+00:12:15,443 --> 00:12:16,653
+Był tak długo sam.
+
+191
+00:12:16,735 --> 00:12:19,445
+Glimmer strasznie się ucieszy.
+
+192
+00:12:19,530 --> 00:12:22,200
+Wybaczy nam złamanie rozkazów,
+
+193
+00:12:22,283 --> 00:12:24,833
+ucieczkę z Bright Moon i zabranie statku.
+
+194
+00:12:25,327 --> 00:12:27,617
+Nie zrobiliśmy nic złego.
+
+195
+00:12:27,705 --> 00:12:29,455
+Nie ma czego wybaczać.
+
+196
+00:12:29,832 --> 00:12:31,582
+Nic nam nie mówiła.
+
+197
+00:12:31,709 --> 00:12:33,629
+Nie była dobrą przyjaciółką.
+
+198
+00:12:34,211 --> 00:12:35,051
+A my?
+
+199
+00:12:35,129 --> 00:12:37,379
+Można pokłócić się z przyjaciółką
+
+200
+00:12:37,465 --> 00:12:39,005
+i dalej się przyjaźnić?
+
+201
+00:12:39,091 --> 00:12:41,591
+Nawet nie mówmy o Shadow Weaver.
+
+202
+00:12:43,179 --> 00:12:44,179
+W porządku?
+
+203
+00:12:45,764 --> 00:12:47,144
+Tak, ale...
+
+204
+00:12:47,975 --> 00:12:49,845
+Czemu nie mogę stać się She-Rą?
+
+205
+00:12:50,019 --> 00:12:52,439
+A jeśli coś zainfekowało miecz?
+
+206
+00:12:52,521 --> 00:12:56,981
+Może Glimmer ma rację
+i tylko wszystko psuję?
+
+207
+00:12:57,067 --> 00:12:59,607
+Czuję się bezużyteczna.
+
+208
+00:13:00,237 --> 00:13:02,407
+Nie jesteś bezużyteczna.
+
+209
+00:13:02,490 --> 00:13:03,820
+Coś wymyślimy.
+
+210
+00:13:03,908 --> 00:13:07,078
+Jesteś bohaterką, a ja mistrzem techniki.
+
+211
+00:13:07,203 --> 00:13:08,413
+Swift Wind...
+
+212
+00:13:11,665 --> 00:13:12,665
+To nie jedzenie!
+
+213
+00:13:16,337 --> 00:13:17,547
+Wciąż jest koniem.
+
+214
+00:13:17,713 --> 00:13:20,423
+Ale pomaga nam
+fajoski tatuś czarnoksiężnik.
+
+215
+00:13:23,594 --> 00:13:24,594
+Racja.
+
+216
+00:13:40,528 --> 00:13:43,108
+Muszę zniszczyć więcej pająków,
+
+217
+00:13:43,197 --> 00:13:44,867
+czy ze mną porozmawiasz?
+
+218
+00:13:45,616 --> 00:13:50,956
+Pierwsi ukradli magię Etherii,
+magię mojego ludu.
+
+219
+00:13:52,414 --> 00:13:54,634
+Odezwij się do mnie!
+
+220
+00:13:54,708 --> 00:13:59,958
+Ta magia jest nadzieją na zakończenie
+wojny i ocalenie wszystkich.
+
+221
+00:14:00,589 --> 00:14:04,049
+Ta magia w Sercu Etherii...
+
+222
+00:14:07,012 --> 00:14:08,852
+Chcę jej użyć.
+
+223
+00:14:14,353 --> 00:14:20,073
+<i>Tymczasowy dostęp udzielony
+królowej Glimmer z Bright Moon.</i>
+
+224
+00:14:21,068 --> 00:14:23,398
+<i>Królowo, możesz iść dalej.</i>
+
+225
+00:14:31,245 --> 00:14:35,415
+Sygnał jest coraz silniejszy.
+
+226
+00:14:37,001 --> 00:14:39,171
+Nie poddawajcie mu się.
+
+227
+00:14:39,670 --> 00:14:42,210
+Powiedzcie, jaka jest Glimmer?
+
+228
+00:14:42,464 --> 00:14:43,464
+Uparta.
+
+229
+00:14:43,757 --> 00:14:45,127
+Strasznie uparta.
+
+230
+00:14:46,260 --> 00:14:47,390
+- Bow.
+- No co?
+
+231
+00:14:47,553 --> 00:14:48,973
+Jest też odważna.
+
+232
+00:14:49,054 --> 00:14:51,474
+Niewielu jej dorównuje.
+
+233
+00:14:52,016 --> 00:14:56,766
+Chcę być bohaterką, na jaką zasługuje.
+A chyba nią nie jestem.
+
+234
+00:14:57,229 --> 00:14:59,109
+Świetnie.
+
+235
+00:14:59,315 --> 00:15:01,975
+Nadal ma tego pluszaka?
+
+236
+00:15:02,067 --> 00:15:04,857
+- Tego, którego dla niej zrobiłem? Kowla?
+- Tak.
+
+237
+00:15:05,070 --> 00:15:07,740
+Korzysta też z twojej
+czarodziejskiej laski.
+
+238
+00:15:08,741 --> 00:15:11,411
+Czy to nie jest niebezpieczne?
+
+239
+00:15:12,453 --> 00:15:13,793
+Jej to nie obchodzi.
+
+240
+00:15:13,871 --> 00:15:17,831
+Teraz już nie słucha nikogo, oprócz Sha...
+
+241
+00:15:20,669 --> 00:15:21,669
+Co to?
+
+242
+00:15:22,671 --> 00:15:23,801
+To pukasiki.
+
+243
+00:15:24,924 --> 00:15:25,934
+Pukasiki?
+
+244
+00:15:26,008 --> 00:15:28,338
+Brzmi uroczo.
+
+245
+00:15:30,220 --> 00:15:32,770
+To kolejne bestie z czymś ostrym?
+
+246
+00:15:33,474 --> 00:15:36,734
+Podróżują w grupie. Tropią ofiarę.
+
+247
+00:15:36,810 --> 00:15:39,310
+Wabią ją i otaczają, aż jest za późno.
+
+248
+00:15:39,480 --> 00:15:42,110
+A teraz polują na nas.
+
+249
+00:15:46,987 --> 00:15:47,987
+W nogi!
+
+250
+00:15:49,907 --> 00:15:52,237
+Szkoda, że nie ma tu Glimmer!
+
+251
+00:15:52,326 --> 00:15:55,246
+Teleportowałaby nas w okamgnieniu.
+
+252
+00:15:55,329 --> 00:15:57,539
+Czemu nam nie zaufała?
+
+253
+00:15:57,748 --> 00:15:59,418
+Czemu nie zaufała mnie?
+
+254
+00:15:59,500 --> 00:16:00,580
+Ona walczy?
+
+255
+00:16:00,668 --> 00:16:02,128
+Jest za młoda.
+
+256
+00:16:02,211 --> 00:16:03,801
+Angella nie powinna...
+
+257
+00:16:08,676 --> 00:16:09,676
+Mówcie prawdę.
+
+258
+00:16:09,718 --> 00:16:11,718
+Glimmer nie jest już mała?
+
+259
+00:16:12,262 --> 00:16:13,812
+Jak długo mnie nie było?
+
+260
+00:16:16,058 --> 00:16:19,268
+O nie. Cisza zawsze zwiastuje kłopoty.
+
+261
+00:16:19,353 --> 00:16:20,813
+Gdzie są?
+
+262
+00:16:25,859 --> 00:16:27,439
+Jaki słodki.
+
+263
+00:16:29,321 --> 00:16:30,161
+Przerażający!
+
+264
+00:16:30,239 --> 00:16:31,819
+Mówiłem!
+
+265
+00:16:35,619 --> 00:16:36,619
+Swift Wind!
+
+266
+00:16:45,713 --> 00:16:48,133
+Swift Wind! Zaczekaj!
+
+267
+00:16:54,430 --> 00:16:55,470
+Ja...
+
+268
+00:16:57,808 --> 00:16:58,808
+Trzymaj się.
+
+269
+00:16:59,727 --> 00:17:00,887
+Sygnał.
+
+270
+00:17:00,978 --> 00:17:03,188
+Też go teraz słyszysz?
+
+271
+00:17:04,148 --> 00:17:05,648
+Jest taki głośny.
+
+272
+00:17:07,067 --> 00:17:09,527
+Nie mogę zebrać myśli.
+
+273
+00:17:12,531 --> 00:17:13,531
+Nie!
+
+274
+00:17:14,908 --> 00:17:18,328
+Nie możemy się zatrzymywać.
+Są tuż za nami.
+
+275
+00:17:18,412 --> 00:17:20,752
+Musimy iść. Sygnał jest zbyt silny.
+
+276
+00:17:20,914 --> 00:17:24,134
+To pułapka. Ruszajmy!
+
+277
+00:17:26,003 --> 00:17:28,013
+- Bow!
+- Bow.
+
+278
+00:17:29,506 --> 00:17:31,086
+Tylko nie ty.
+
+279
+00:17:31,175 --> 00:17:32,425
+Walcz z tym.
+
+280
+00:17:32,593 --> 00:17:34,013
+Już za późno.
+
+281
+00:17:36,972 --> 00:17:38,102
+Nie udało się.
+
+282
+00:17:40,142 --> 00:17:42,352
+Nie. Możemy się wydostać.
+
+283
+00:17:42,561 --> 00:17:43,651
+Micah, pomóż mu.
+
+284
+00:17:50,569 --> 00:17:51,649
+Królu Micahu!
+
+285
+00:17:55,074 --> 00:17:58,334
+Nie poddawaj się. Nie teraz.
+
+286
+00:17:58,410 --> 00:18:00,500
+Razem wrócimy do Bright Moon.
+
+287
+00:18:00,579 --> 00:18:03,579
+Musisz pomóc Glimmer być królową...
+
+288
+00:18:03,665 --> 00:18:04,665
+Królową?
+
+289
+00:18:06,960 --> 00:18:08,500
+To znaczy...
+
+290
+00:18:15,677 --> 00:18:16,677
+Nie!
+
+291
+00:18:16,762 --> 00:18:17,762
+Królu!
+
+292
+00:18:18,764 --> 00:18:19,814
+Bow.
+
+293
+00:18:20,474 --> 00:18:21,684
+Swifty.
+
+294
+00:18:23,268 --> 00:18:25,398
+Proszę. Sama nie dam rady.
+
+295
+00:18:25,479 --> 00:18:27,229
+Nie...
+
+296
+00:18:27,314 --> 00:18:29,944
+Nie dam rady.
+
+297
+00:18:31,151 --> 00:18:32,571
+Glimmer miała rację.
+
+298
+00:18:42,496 --> 00:18:43,906
+Opiekujcie się sobą.
+
+299
+00:18:54,758 --> 00:18:55,798
+Glimmer?
+
+300
+00:18:59,596 --> 00:19:01,516
+Nie poddam się!
+
+301
+00:19:01,598 --> 00:19:04,348
+Nie oddam przyjaciół, Etherii
+
+302
+00:19:04,935 --> 00:19:07,015
+ani samej siebie!
+
+303
+00:19:07,104 --> 00:19:10,364
+Na honor posępnego czerepu!
+
+304
+00:19:10,440 --> 00:19:13,990
+<i>Czerepu!</i>
+
+305
+00:19:36,008 --> 00:19:37,008
+Udało ci się.
+
+306
+00:19:37,426 --> 00:19:38,636
+Jesteś She-Rą!
+
+307
+00:19:39,303 --> 00:19:40,473
+She-Ra.
+
+308
+00:19:42,306 --> 00:19:45,806
+To nie sygnał nie pozwalał mi
+stać się She-Rą.
+
+309
+00:19:45,893 --> 00:19:46,893
+Tylko ja sama.
+
+310
+00:19:47,519 --> 00:19:49,059
+Bałam się słów Glimmer.
+
+311
+00:19:49,438 --> 00:19:52,108
+Że tylko pogarszam sytuację.
+
+312
+00:19:52,274 --> 00:19:54,404
+Obiecałam, że o nią zadbam.
+
+313
+00:19:56,820 --> 00:19:59,780
+Że zadbam o wszystkich. Dotrzymam słowa.
+
+314
+00:19:59,990 --> 00:20:05,250
+Zatem jesteś legendarną wojowniczką,
+a moja córka została królową?
+
+315
+00:20:05,871 --> 00:20:09,211
+Trzeba nadrobić sporo zaległości.
+
+316
+00:20:09,291 --> 00:20:12,291
+Ale najpierw ocalmy przyjaciół.
+
+317
+00:20:37,069 --> 00:20:38,359
+Tak!
+
+318
+00:20:38,654 --> 00:20:39,494
+Udało się!
+
+319
+00:20:39,571 --> 00:20:42,951
+Co wy na to, paskudne poczwary
+o uroczej nazwie?
+
+320
+00:20:49,456 --> 00:20:50,456
+Stańcie za mną.
+
+321
+00:20:58,882 --> 00:21:01,432
+Księżniczki! Ocaliłam was!
+
+322
+00:21:04,513 --> 00:21:05,513
+Light Hope?
+
+323
+00:21:06,515 --> 00:21:07,515
+Czy to ty?
+
+324
+00:21:08,558 --> 00:21:12,728
+Kryształowy Zamek
+przeznaczony jest dla She-Ry i jej rumaka.
+
+325
+00:21:12,813 --> 00:21:14,483
+Jesteś tu intruzem.
+
+326
+00:21:16,024 --> 00:21:18,654
+She-Ry tu nie ma.
+
+327
+00:21:19,486 --> 00:21:23,196
+Razem z Bowem wyruszyła na durną misję,
+
+328
+00:21:23,282 --> 00:21:24,322
+a mnie zostawiła.
+
+329
+00:21:25,659 --> 00:21:27,329
+Jak nas wszystkich.
+
+330
+00:21:27,411 --> 00:21:31,421
+Boi się użyć magii z Serca Etherii.
+
+331
+00:21:32,165 --> 00:21:33,165
+Ale ja nie.
+
+332
+00:21:36,169 --> 00:21:39,549
+Może powierzenie jej tej misji
+było błędem.
+
+333
+00:21:40,132 --> 00:21:41,762
+Adora jest spalona.
+
+334
+00:21:41,842 --> 00:21:45,762
+Nie jest gotowa zrobić tego,
+co konieczne, by chronić Etherię.
+
+335
+00:21:46,513 --> 00:21:47,763
+Ale ty jesteś.
+
+336
+00:21:48,849 --> 00:21:49,929
+Tak.
+
+337
+00:21:50,684 --> 00:21:52,774
+Adora poczyniła postępy,
+
+338
+00:21:53,270 --> 00:21:56,400
+ale nie przywróciła planecie równowagi.
+
+339
+00:21:56,857 --> 00:22:02,197
+Bez tego nie można uzyskać dostępu
+do Serca Etherii.
+
+340
+00:22:02,988 --> 00:22:04,108
+Równowagi?
+
+341
+00:22:04,740 --> 00:22:06,910
+Co to znaczy? Jak to zrobić?
+
+342
+00:22:07,492 --> 00:22:09,912
+Brakuje tylko jednego elementu.
+
+343
+00:22:10,954 --> 00:22:13,924
+Księżniczki są przewodnikami mocy Serca.
+
+344
+00:22:14,708 --> 00:22:17,918
+Muszą się połączyć
+ze swymi kamieniami runicznymi,
+
+345
+00:22:18,003 --> 00:22:20,213
+a Serce Etherii zadziała.
+
+346
+00:22:20,297 --> 00:22:21,967
+I to doda nam sił?
+
+347
+00:22:22,674 --> 00:22:26,184
+Zyskacie niewyobrażalną moc.
+
+348
+00:22:27,054 --> 00:22:32,484
+Ostatnim elementem jest księżniczka,
+która nie przyjęła przeznaczenia.
+
+349
+00:22:33,060 --> 00:22:36,400
+<i>Pozbawiona mocy przez knowania Hordy.</i>
+
+350
+00:23:10,388 --> 00:23:12,888
+Napisy: Malgorzata Siemionkowska
+
